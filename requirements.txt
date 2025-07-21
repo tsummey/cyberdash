@@ -1,1 +1,6 @@
-
+streamlit
+requests
+feedparser
+beautifulsoup4
+python-dateutil
+pandas
