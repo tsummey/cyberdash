@@ -2,7 +2,7 @@ name: Scheduled RSS Update
 
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'  # UTC time for 12 AM, 6 AM, 12 PM, 6 PM
+    - cron: '0 * * * *'  # Every hour, UTC
   workflow_dispatch:
 
 permissions:
