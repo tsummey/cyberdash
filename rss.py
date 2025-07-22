@@ -61,26 +61,26 @@ def process_rss_feeds(json_filename='cybersecnews.json'):
     ]
 
     keywords = [
-    'APT', 'DDoS', 'IoT security', 'SQL injection', 'advanced persistent threat',
-    'adware', 'backdoor', 'botnet', 'breach', 'brute force', 'credential stuffing',
-    'cross-site scripting (XSS)', 'cryptojacking', 'cyber defense', 'cyber espionage',
-    'cyber warfare', 'cyberattack', 'cybercrime', 'cybersecurity incident', 'dark web',
-    'data leak', 'data theft', 'digital extortion', 'digital forensics', 'endpoint protection',
-    'exfiltration', 'exploit', 'exposed data', 'hack', 'hacktivist', 'information security',
-    'insider threat', 'keylogger', 'malware', 'man-in-the-middle', 'network intrusion',
-    'password attack', 'phishing', 'ransomware group', 'rootkit', 'security breach',
-    'session hijacking', 'social engineering', 'spear-phishing', 'spyware', 'threat actor',
-    'trojan', 'vulnerability', 'worm', 'zero-day', 'deepfake', 'supply chain attack',
-    'zero trust', 'cloud jacking', 'AI-powered attack', 'RansomOps', 'fileless malware',
-    'living off the land', 'credential harvesting', 'cyber hygiene', 'shadow IT',
-    'cryptographic failures', 'smart contract vulnerabilities', 'insider risk', 'API abuse',
-    'harvest now, decrypt later', 'initial access broker', 'infostealer', 'lolbin', 'MFA fatigue',
-    'SIM swapping', 'active directory attack', 'data exfil', 'BEC scam', 'darknet market',
-    'c2 infrastructure', 'malvertising', 'RCE', 'privilege escalation', 'supply chain compromise',
-    'domain shadowing', 'CVE-', 'sandbox evasion', 'TTPs', 'command and control',
-    'stealer logs', 'threat hunting', 'EDR evasion', 'double extortion', 'payload delivery',
-    'phishing kit', 'malspam', 'vishing', 'smishing'
-]
+        'APT', 'DDoS', 'IoT security', 'SQL injection', 'advanced persistent threat',
+        'adware', 'backdoor', 'botnet', 'breach', 'brute force', 'credential stuffing',
+        'cross-site scripting (XSS)', 'cryptojacking', 'cyber defense', 'cyber espionage',
+        'cyber warfare', 'cyberattack', 'cybercrime', 'cybersecurity incident', 'dark web',
+        'data leak', 'data theft', 'digital extortion', 'digital forensics', 'endpoint protection',
+        'exfiltration', 'exploit', 'exposed data', 'hack', 'hacktivist', 'information security',
+        'insider threat', 'keylogger', 'malware', 'man-in-the-middle', 'network intrusion',
+        'password attack', 'phishing', 'ransomware group', 'rootkit', 'security breach',
+        'session hijacking', 'social engineering', 'spear-phishing', 'spyware', 'threat actor',
+        'trojan', 'vulnerability', 'worm', 'zero-day', 'deepfake', 'supply chain attack',
+        'zero trust', 'cloud jacking', 'AI-powered attack', 'RansomOps', 'fileless malware',
+        'living off the land', 'credential harvesting', 'cyber hygiene', 'shadow IT',
+        'cryptographic failures', 'smart contract vulnerabilities', 'insider risk', 'API abuse',
+        'harvest now, decrypt later', 'initial access broker', 'infostealer', 'lolbin',
+        'MFA fatigue', 'SIM swapping', 'active directory attack', 'data exfil', 'BEC scam',
+        'darknet market', 'c2 infrastructure', 'malvertising', 'RCE', 'privilege escalation',
+        'supply chain compromise', 'domain shadowing', 'CVE-', 'sandbox evasion', 'TTPs',
+        'command and control', 'stealer logs', 'threat hunting', 'EDR evasion', 'double extortion',
+        'payload delivery', 'phishing kit', 'malspam', 'vishing', 'smishing'
+    ]
     pattern = re.compile('|'.join(keywords), re.IGNORECASE)
 
     def clean_title(title):
@@ -136,10 +136,11 @@ st.title("Cybersecurity News Dashboard")
 
 col1, col2 = st.columns([1, 3])
 with col1:
-    selected_date = st.date_input("Filter by Date", None)
+    date_range = st.date_input("Filter by Date Range", [])
 with col2:
     keyword = st.text_input("Search by Keyword").strip().lower()
 
+# Update JSON if outdated
 if is_json_outdated('cybersecnews.json'):
     with st.spinner("Retrieving Articles..."):
         thread = threading.Thread(target=process_rss_feeds)
@@ -153,9 +154,14 @@ if os.path.exists('cybersecnews.json'):
     df = pd.DataFrame(data)
     df['published'] = pd.to_datetime(df['published'])
 
-    if selected_date:
-        df = df[df['published'].dt.date == selected_date]
+    # Apply date range filter
+    if len(date_range) == 2:
+        start_date, end_date = date_range
+        df = df[(df['published'].dt.date >= start_date) & (df['published'].dt.date <= end_date)]
+    elif len(date_range) == 1:
+        df = df[df['published'].dt.date == date_range[0]]
 
+    # Apply keyword filter
     if keyword:
         df = df[df['title'].str.lower().str.contains(keyword) | df['summary'].str.lower().str.contains(keyword)]
 
