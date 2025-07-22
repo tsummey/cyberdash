@@ -5,6 +5,24 @@ from dateutil import parser as date_parser
 import pandas as pd
 import streamlit as st
 
+st.set_page_config(
+    page_title="Cybersecurity News Dashboard",
+    layout="wide",
+    initial_sidebar_state="collapsed"
+)
+
+# Hide Streamlit UI elements
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    .st-emotion-cache-1dp5vir.ezrtsby2 {display: none;} /* GitHub button */
+    button[title="View app in full screen"] {display: none;} /* 3-dot menu */
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
