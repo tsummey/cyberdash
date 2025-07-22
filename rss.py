@@ -17,10 +17,18 @@ hide_streamlit_style = """
     #MainMenu {visibility: hidden;}
     header {visibility: hidden;}
     footer {visibility: hidden;}
-    .st-emotion-cache-1dp5vir.ezrtsby2 {display: none;}  /* GitHub */
-    button[title="View app in full screen"] {display: none;}  /* 3-dot */
-    .stDeployButton {visibility: hidden !important;}  /* Manage App btn */
-    .st-emotion-cache-13ln4jf {visibility: hidden !important; height: 0px !important;}  /* Streamlit footer shell */
+    .st-emotion-cache-1dp5vir.ezrtsby2 {display: none;}
+    button[title="View app in full screen"] {display: none;}
+    .stDeployButton {visibility: hidden !important;}
+    .st-emotion-cache-13ln4jf {visibility: hidden !important; height: 0px !important;}
+    div[data-testid="stStatusWidget"],
+    div[class*="statusWidget"],
+    a[href*="cloud.streamlit.io"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0px !important;
+        overflow: hidden !important;
+    }
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
