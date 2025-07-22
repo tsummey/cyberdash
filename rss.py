@@ -150,17 +150,6 @@ def process_rss_feeds(json_filename='cybersecnews.json'):
 # Streamlit app
 st.title("Cybersecurity News Dashboard")
 
-# Add a "Stop Dashboard" button
-if 'stop_dashboard' not in st.session_state:
-    st.session_state['stop_dashboard'] = False
-
-if st.button("Stop Dashboard"):
-    st.session_state['stop_dashboard'] = True
-
-if st.session_state['stop_dashboard']:
-    st.warning("Shutting down the dashboard. The application will close shortly.")
-    os._exit(0)
-
 # Run the fetching process with a spinner if the JSON file is outdated or missing
 def run_fetching_process():
     process_rss_feeds()
