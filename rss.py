@@ -61,20 +61,26 @@ def process_rss_feeds(json_filename='cybersecnews.json'):
     ]
 
     keywords = [
-        'APT', 'DDoS', 'IoT security', 'SQL injection', 'advanced persistent threat',
-        'adware', 'backdoor', 'botnet', 'breach', 'brute force', 'credential stuffing',
-        'cross-site scripting (XSS)', 'cryptojacking', 'cyber defense', 'cyber espionage',
-        'cyber warfare', 'cyberattack', 'cybercrime', 'cybersecurity incident', 'dark web',
-        'data leak', 'data theft', 'digital extortion', 'digital forensics', 'endpoint protection',
-        'exfiltration', 'exploit', 'exposed data', 'hack', 'hacktivist', 'information security',
-        'insider threat', 'keylogger', 'malware', 'man-in-the-middle', 'network intrusion',
-        'password attack', 'phishing', 'ransomware group', 'rootkit', 'security breach',
-        'session hijacking', 'social engineering', 'spear-phishing', 'spyware', 'threat actor',
-        'trojan', 'vulnerability', 'worm', 'zero-day', 'deepfake', 'supply chain attack',
-        'zero trust', 'cloud jacking', 'AI-powered attack', 'RansomOps', 'fileless malware',
-        'living off the land', 'credential harvesting', 'cyber hygiene', 'shadow IT',
-        'cryptographic failures', 'smart contract vulnerabilities', 'insider risk', 'API abuse'
-    ]
+    'APT', 'DDoS', 'IoT security', 'SQL injection', 'advanced persistent threat',
+    'adware', 'backdoor', 'botnet', 'breach', 'brute force', 'credential stuffing',
+    'cross-site scripting (XSS)', 'cryptojacking', 'cyber defense', 'cyber espionage',
+    'cyber warfare', 'cyberattack', 'cybercrime', 'cybersecurity incident', 'dark web',
+    'data leak', 'data theft', 'digital extortion', 'digital forensics', 'endpoint protection',
+    'exfiltration', 'exploit', 'exposed data', 'hack', 'hacktivist', 'information security',
+    'insider threat', 'keylogger', 'malware', 'man-in-the-middle', 'network intrusion',
+    'password attack', 'phishing', 'ransomware group', 'rootkit', 'security breach',
+    'session hijacking', 'social engineering', 'spear-phishing', 'spyware', 'threat actor',
+    'trojan', 'vulnerability', 'worm', 'zero-day', 'deepfake', 'supply chain attack',
+    'zero trust', 'cloud jacking', 'AI-powered attack', 'RansomOps', 'fileless malware',
+    'living off the land', 'credential harvesting', 'cyber hygiene', 'shadow IT',
+    'cryptographic failures', 'smart contract vulnerabilities', 'insider risk', 'API abuse',
+    'harvest now, decrypt later', 'initial access broker', 'infostealer', 'lolbin', 'MFA fatigue',
+    'SIM swapping', 'active directory attack', 'data exfil', 'BEC scam', 'darknet market',
+    'c2 infrastructure', 'malvertising', 'RCE', 'privilege escalation', 'supply chain compromise',
+    'domain shadowing', 'CVE-', 'sandbox evasion', 'TTPs', 'command and control',
+    'stealer logs', 'threat hunting', 'EDR evasion', 'double extortion', 'payload delivery',
+    'phishing kit', 'malspam', 'vishing', 'smishing'
+]
     pattern = re.compile('|'.join(keywords), re.IGNORECASE)
 
     def clean_title(title):
