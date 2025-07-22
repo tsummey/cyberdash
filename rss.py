@@ -11,14 +11,16 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Hide Streamlit UI elements
+# Hide Streamlit UI clutter
 hide_streamlit_style = """
     <style>
     #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
     header {visibility: hidden;}
-    .st-emotion-cache-1dp5vir.ezrtsby2 {display: none;} /* GitHub button */
-    button[title="View app in full screen"] {display: none;} /* 3-dot menu */
+    footer {visibility: hidden;}
+    .st-emotion-cache-1dp5vir.ezrtsby2 {display: none;}  /* GitHub */
+    button[title="View app in full screen"] {display: none;}  /* 3-dot */
+    .stDeployButton {visibility: hidden !important;}  /* Manage App btn */
+    .st-emotion-cache-13ln4jf {visibility: hidden !important; height: 0px !important;}  /* Streamlit footer shell */
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
