@@ -209,7 +209,7 @@ if os.path.exists('cybersecnews.json'):
             if i + idx < len(df):
                 row = df.iloc[i + idx]
                 with col:
-                    st.write(row['published'])
+                    st.write(row['published'].date().strftime('%Y-%m-%d'))
                     st.markdown(f"### {row['title']}")
                     summary = ' '.join(row['summary'].split()[:25]) + ("..." if len(row['summary'].split()) > 25 else "")
                     st.write(summary)
