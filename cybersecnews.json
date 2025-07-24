@@ -768,6 +768,12 @@
         "published": "2025-07-08"
     },
     {
+        "title": "Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/",
+        "summary": "Plus she has to cough up a slice of Pyongyang\u2019s payday An Arizona woman who ran a laptop farm from her home - helping North Korean IT operatives pose as US-based remote workers - has been sentenced to eight and a half years behind bars for her role in a $17 million fraud that hit more than 300 American companies.\u2026",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Cisco ISE flaw gave root access before fix arrived, say researchers",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/no_login_no_problem_cisco_flaw/",
         "summary": "Shadowserver claims miscreants were already poking at a critical hole in early July, long before Switchzilla patched it Threat actors have actively exploited a newly patched vulnerability in Cisco's Identity Services Engine (ISE) software since early July, weeks before the networking giant got around to issuing a fix.\u2026",
@@ -945,12 +951,6 @@
         "title": "Nvidia A6000 GPUs flip memory bits if beaten by GPUHammer",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/14/nvidia_a6000_gpu_gpuhammer/",
         "summary": "Rowhammer returns for more memory-meddling fun The Rowhammer attack on computer memory is back, and for the first time, it's able to mess with bits in Nvidia GPUs, despite defenses designed to protect against this kind of hacking.\u2026",
-        "published": "2025-07-14"
-    },
-    {
-        "title": "A software-defined radio can derail a US train by slamming the brakes on remotely",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/14/train_brakes_flaw/",
-        "summary": "Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there Updated\u00a0 When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn't expect it would take until 2025 to sort the matter out, but here we are.\u00a0\u2026",
         "published": "2025-07-14"
     }
 ]
