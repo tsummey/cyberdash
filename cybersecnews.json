@@ -36,6 +36,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology",
+        "link": "https://cybersecuritynews.com/llm-powered-malware-from-apt28-hackers-integrates-ai-capabilities/",
+        "summary": "The newly revealed LAMEHUG campaign signals a watershed moment for cyber-def: Russian state-aligned APT28 has fused a large language model (LLM) directly into live malware, allowing each infected host to receive tailor-made shell commands on the fly. By invoking the Qwen2.5-Coder-32B-Instruct model through Hugging Face\u2019s public API, the attackers sidestep traditional static payload constraints and [\u2026]\nThe post First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology appeared first on Cyber Security News.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware",
         "link": "https://cybersecuritynews.com/threat-actors-weaponizing-hwp-files/",
         "summary": "Cybersecurity researchers have uncovered a sophisticated malware campaign where threat actors are exploiting Hangul Word Processor (.hwp) documents to distribute the notorious RokRAT malware. This marks a significant shift from the malware\u2019s traditional distribution method through malicious shortcut (LNK) files, demonstrating the evolving tactics of advanced persistent threat groups. The attack campaign utilizes carefully crafted [\u2026]\nThe post Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware appeared first on Cyber Security News.",
@@ -69,12 +75,6 @@
         "title": "Google Launches OSS Rebuild to Strengthen Security of The Open-Source Package Ecosystems",
         "link": "https://cybersecuritynews.com/google-launches-oss-rebuild-to-strengthen-security/",
         "summary": "Modern software supply-chains rely on millions of third-party components, making package repositories a lucrative for attackers. Over the past year, a string of high-profile compromises\u2014from the xz-utils backdoor to the solana/webjs typosquatting incident\u2014has shown how stealthy code can poison widely deployed libraries before defenders notice. Google\u2019s newly announced OSS Rebuild initiative confronts this problem head-on [\u2026]\nThe post Google Launches OSS Rebuild to Strengthen Security of The Open-Source Package Ecosystems appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "AWS Client VPN for Windows Vulnerability Let Attackers Escalate Privileges",
-        "link": "https://cybersecuritynews.com/aws-client-vpn-for-windows-vulnerability/",
-        "summary": "Amazon Web Services has disclosed a critical security vulnerability in its Client VPN software for Windows that could allow attackers to escalate privileges and execute malicious code with administrative rights.\u00a0 The vulnerability, tracked as CVE-2025-8069, affects multiple versions of the AWS Client VPN client and has been patched in the latest release.\u00a0 Key Takeaways1. CVE-2025-8069 [\u2026]\nThe post AWS Client VPN for Windows Vulnerability Let Attackers Escalate Privileges appeared first on Cyber Security News.",
         "published": "2025-07-24"
     },
     {
@@ -256,6 +256,24 @@
         "link": "https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems",
         "summary": "The new framework is modeled after and meant to complement the MITRE ATT&CK framework, and it is aimed at detecting and responding to cyberattacks on cryptocurrency assets and other financial targets.",
         "published": "2025-07-15"
+    },
+    {
+        "title": "I switched to a $280 Chromebook from my Windows laptop for a week - and didn't regret it",
+        "link": "https://www.zdnet.com/article/i-switched-to-a-280-chromebook-from-my-windows-laptop-for-a-week-and-didnt-regret-it/",
+        "summary": "Lenovo's 11-inch Chromebook Duet is a hybrid device that's portable enough to lug around for work or school.",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "Why I recommend this Asus laptop over the MacBook Pro to creators and professionals",
+        "link": "https://www.zdnet.com/article/why-i-recommend-this-asus-laptop-over-the-macbook-pro-to-creators-and-professionals/",
+        "summary": "The Asus ProArt P16 offers strong performance initially, with its customization options providing additional benefits for users.",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "Microsoft fixes SharePoint zero-day exploits used in cyberattacks and ransomware - how to patch them",
+        "link": "https://www.zdnet.com/article/microsoft-fixes-sharepoint-zero-day-exploits-used-in-cyberattacks-and-ransomware-how-to-patch-them/",
+        "summary": "Microsoft has pointed the finger at three Chinese nation-state actors for exploiting the SharePoint vulnerabilities. Here's what we know about the security flaws and how to guard against future attacks.",
+        "published": "2025-07-24"
     },
     {
         "title": "You can buy Lenovo's 'rollable' laptop now - not cheap, but packed with killer specs",
@@ -768,6 +786,12 @@
         "published": "2025-07-08"
     },
     {
+        "title": "SharePoint attacks now officially include ransomware infections",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/microsoft_sharepoint_ransomware/",
+        "summary": "Let the games begin Ransomware has officially entered the Microsoft SharePoint exploitation ring.\u2026",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Coyote malware abuses Microsoft's UI Automation to hunt banking creds",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/coyote_malware_microsoft_uia/",
         "summary": "Some coyotes hunt squirrels, this one hunts users' financial apps A new variant of the Coyote banking trojan abuses Microsoft's UI Automation (UIA), making it the first reported malware to use UIA for credential theft.\u2026 ",
@@ -934,11 +958,5 @@
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/14/train_brakes_flaw/",
         "summary": "Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there Updated\u00a0 When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn't expect it would take until 2025 to sort the matter out, but here we are.\u00a0\u2026",
         "published": "2025-07-14"
-    },
-    {
-        "title": "Nvidia warns its GPUs \u2013 even Blackwells \u2013 need protection against Rowhammer attacks",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/13/infosec_in_brief/",
-        "summary": "PLUS: Bluetooth mess leaves cars exposed; Bitcoin ATMs attacked; Deepfakers imitate US secretary of state Marco Rubio; and more Infosec In Brief\u00a0 Nvidia last week advised customers to ensure they employ mitigations against Rowhammer attacks, after researchers found one of its workstation-grade GPUs is susceptible to the exploit.\u2026",
-        "published": "2025-07-13"
     }
 ]
