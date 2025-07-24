@@ -114,6 +114,12 @@
         "published": "2025-07-24"
     },
     {
+        "title": "Ransomware Actors Pile on 'ToolShell' SharePoint Bugs",
+        "link": "https://www.darkreading.com/endpoint-security/ransomware-actors-toolshell-sharepoint-bugs",
+        "summary": "Storm-2603, a China-based threat actor, is targeting SharePoint customers in an ongoing ransomware campaign.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later",
         "link": "https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later",
         "summary": "Chinese threat actors have been feeding off the same Ivanti RCE vulnerabilities we've known about since January, partly thanks to complications in patching.",
@@ -261,12 +267,6 @@
         "title": "How Criminal Networks Exploit Insider Vulnerabilities",
         "link": "https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities",
         "summary": "Criminal networks are adapting quickly, and they're betting that companies won't keep pace. Let's prove them wrong.",
-        "published": "2025-07-15"
-    },
-    {
-        "title": "MITRE Launches AADAPT Framework for Financial Systems",
-        "link": "https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems",
-        "summary": "The new framework is modeled after and meant to complement the MITRE ATT&CK framework, and it is aimed at detecting and responding to cyberattacks on cryptocurrency assets and other financial targets.",
         "published": "2025-07-15"
     },
     {
