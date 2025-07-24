@@ -5,6 +5,9 @@ from dateutil import parser as date_parser
 import pandas as pd
 import streamlit as st
 
+if os.path.exists('cybersecnews.json'):
+    os.remove('cybersecnews.json')
+
 st.set_page_config(
     page_title="Cybersecurity News Dashboard",
     layout="wide",
