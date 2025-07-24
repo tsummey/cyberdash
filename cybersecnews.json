@@ -36,6 +36,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware",
+        "link": "https://cybersecuritynews.com/threat-actors-weaponizing-hwp-files/",
+        "summary": "Cybersecurity researchers have uncovered a sophisticated malware campaign where threat actors are exploiting Hangul Word Processor (.hwp) documents to distribute the notorious RokRAT malware. This marks a significant shift from the malware\u2019s traditional distribution method through malicious shortcut (LNK) files, demonstrating the evolving tactics of advanced persistent threat groups. The attack campaign utilizes carefully crafted [\u2026]\nThe post Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware appeared first on Cyber Security News.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months",
         "link": "https://cybersecuritynews.com/noname05716s-hackers-attacked-3700-unique-devices/",
         "summary": "The pro-Russian hacktivist group NoName057(16) has orchestrated a massive distributed denial-of-service campaign targeting over 3,700 unique hosts across thirteen months, according to new research published on July 22, 2025. The group, which emerged in March 2022 shortly after Russia\u2019s full-scale invasion of Ukraine, has maintained an unprecedented operational tempo by launching attacks against an average [\u2026]\nThe post NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months appeared first on Cyber Security News.",
@@ -72,12 +78,6 @@
         "published": "2025-07-24"
     },
     {
-        "title": "Stealthy Backdoor in WordPress Plugins Gives Attackers Persistent Access to Websites",
-        "link": "https://cybersecuritynews.com/stealthy-backdoor-in-wordpress-plugins/",
-        "summary": "A sophisticated WordPress malware campaign has been discovered operating through the rarely monitored mu-plugins directory, giving attackers persistent access to compromised websites while evading traditional security measures. The malicious code, identified as wp-index.php, exploits WordPress\u2019s \u201cmust-use plugins\u201d functionality to maintain continuous operation without the possibility of deactivation through the admin panel. The backdoor employs advanced [\u2026]\nThe post Stealthy Backdoor in WordPress Plugins Gives Attackers Persistent Access to Websites appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
         "title": "Clorox Sues Cognizant for $380 Million Over 2023 Hack",
         "link": "https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/",
         "summary": "Clorox is blaming Congnizat for the 2023 cyberattack, claiming that the IT provided handed over passwords to the hackers.\nThe post Clorox Sues Cognizant for $380 Million Over 2023 Hack appeared first on SecurityWeek.",
@@ -102,6 +102,162 @@
         "published": "2025-07-24"
     },
     {
+        "title": "Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later",
+        "link": "https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later",
+        "summary": "Chinese threat actors have been feeding off the same Ivanti RCE vulnerabilities we've known about since January, partly thanks to complications in patching.",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "Banking Trojan Coyote Abuses Windows UI Automation",
+        "link": "https://www.darkreading.com/cyber-risk/banking-trojan-coyote-windows-ui-automation",
+        "summary": "It's the first known instance of malware that abuses the UIA framework and has enabled dozens of attacks against banks and crypto exchanges in Brazil.",
+        "published": "2025-07-23"
+    },
+    {
+        "title": "Dark Web Hackers Moonlight as Travel Agents",
+        "link": "https://www.darkreading.com/remote-workforce/dark-web-hackers-moonlight-travel-agents",
+        "summary": "Hackers are using stolen goods such as credit cards and loyalty points to book travel for sometimes unsuspecting clients, and remote workers, SMBs, travel brands, and others are at risk.",
+        "published": "2025-07-23"
+    },
+    {
+        "title": "Department of Education Site Mimicked in Phishing Scheme",
+        "link": "https://www.darkreading.com/threat-intelligence/department-of-education-site-phishing-scheme",
+        "summary": "An ongoing phishing campaign is using fake versions of the department's G5 grant portal, taking advantage of political turmoil associated with the DoE's 1,400 layoffs.",
+        "published": "2025-07-23"
+    },
+    {
+        "title": "US Nuclear Agency Hacked in Microsoft SharePoint Frenzy",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/us-nuclear-agency-hacked-microsoft-sharepoint",
+        "summary": "Threat actors are piling on the zero-day vulnerabilities in SharePoint, including at least three Chinese nation-state cyber-espionage groups.",
+        "published": "2025-07-23"
+    },
+    {
+        "title": "Lumma Stealer Is Back &amp; Stealthier Than Ever",
+        "link": "https://www.darkreading.com/endpoint-security/lumma-stealer-stealthier-than-ever",
+        "summary": "The operators of the popular and prolific malware wasted no time in regrouping after an FBI takedown in May, and they're back to their old tricks.",
+        "published": "2025-07-23"
+    },
+    {
+        "title": "China Nation-State Actors Target SharePoint Bugs",
+        "link": "https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs",
+        "summary": "Hackers and cybercrime groups are part of a virtual feeding frenzy, after Microsoft's recent disclosure of new vulnerabilities in on-premises editions of SharePoint Server.",
+        "published": "2025-07-22"
+    },
+    {
+        "title": "How IT and OT Security Worlds Are Converging",
+        "link": "https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security",
+        "summary": "Dark Reading's Kelly Jackson Higgins interviews Carmine Valente, Deputy CISO at Con Edison, about his role at the New York-based electric utility and the state of IT and OT security. Valente highlights current threats like ransomware and supply chain attacks, as well as the impact of AI on both defense and threats.",
+        "published": "2025-07-22"
+    },
+    {
+        "title": "Dell Breached by Extortion Group, Says Data Stolen Was 'Fake'",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/dell-breached-data-stolen-fake",
+        "summary": "The World Leaks group accessed and released data from the company's Customer Solution Center, which is separated from customer and partner systems and stores primarily \"synthetic\" datasets used for demos and testing, Dell said.",
+        "published": "2025-07-22"
+    },
+    {
+        "title": "China-Backed APT41 Cyberattack Surfaces in Africa",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-backed-apt41-attack-africa",
+        "summary": "Up to now, the prolific China-sponsored cyber-espionage group has been mostly absent from the region, but a sophisticated and highly targeted attack on an African IT company shows Beijing is branching out.",
+        "published": "2025-07-22"
+    },
+    {
+        "title": "Human Digital Twins Could Give Attackers a Dangerous Advantage",
+        "link": "https://www.darkreading.com/threat-intelligence/human-digital-twins-attackers-dangerous-advantage",
+        "summary": "While this emerging technology offers many benefits, digital twins also have several drawbacks, as these convincing impersonations can be used in social engineering attacks.",
+        "published": "2025-07-21"
+    },
+    {
+        "title": "Europol Sting Leaves Russian Cybercrime's 'NoName057(16)' Group Fractured",
+        "link": "https://www.darkreading.com/threat-intelligence/europol-sting-russian-cybercrime-noname05716",
+        "summary": "National authorities have issued seven arrest warrants in total relating to the cybercrime collective known as NoName057(16), which recruits followers to carry out DDoS attacks on perceived enemies of Russia.",
+        "published": "2025-07-21"
+    },
+    {
+        "title": "Microsoft Rushes Emergency Patch for Actively Exploited SharePoint 'ToolShell' Bug",
+        "link": "https://www.darkreading.com/remote-workforce/microsoft-rushes-emergency-fix-exploited-sharepoint-toolshell-flaw",
+        "summary": "Malicious actors already have already pounced on the zero-day vulnerability, tracked as CVE-2025-53770, to compromise US government agencies and other businesses in ongoing and widespread attacks.",
+        "published": "2025-07-21"
+    },
+    {
+        "title": "'PoisonSeed' Attacker Skates Around FIDO Keys",
+        "link": "https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys",
+        "summary": "Researchers discovered a novel phishing attack that serves the victim a QR code as part of supposed multifactor authentication (MFA), in order to get around FIDO-based protections.",
+        "published": "2025-07-18"
+    },
+    {
+        "title": "Chinese APTs Attack Taiwan's Semiconductor Industry",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry",
+        "summary": "Chinese threat actors have turned to cyberattacks as a way to undermine and destabilize Taiwan's most important industrial sector.",
+        "published": "2025-07-18"
+    },
+    {
+        "title": "A Broad, Leafy Avenue to Compromise",
+        "link": "https://www.darkreading.com/endpoint-security/printer-security-gaps-compromise",
+        "summary": "Security teams aren't patching firmware promptly, no one's vetting the endpoints before purchase, and visibility into potential dangers is limited \u2014 despite more and more cyberattackers targeting printers as a matter of course.",
+        "published": "2025-07-17"
+    },
+    {
+        "title": "Why Cybersecurity Still Matters for America's Schools",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-still-matters-americas-schools",
+        "summary": "Cyberattacks on educational institutions are growing. But with budget constraints and funding shortfalls, leadership teams are questioning whether \u2014 and how \u2014 they can keep their institutions safe.",
+        "published": "2025-07-17"
+    },
+    {
+        "title": "China-Backed Salt Typhoon Hacks US National Guard for Nearly a Year",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-hacks-us-national-guard",
+        "summary": "Between March and December of last year, infamous Chinese state-sponsored APT Salt Typhoon gained access to sensitive US National Guard data.",
+        "published": "2025-07-17"
+    },
+    {
+        "title": "Elite 'Matanbuchus 3.0' Loader Spruces Up Ransomware Infections",
+        "link": "https://www.darkreading.com/threat-intelligence/matanbuchus-loader-ransomware-infections",
+        "summary": "An upgraded cybercrime tool is designed to make targeted ransomware attacks as easy and effective as possible, with features like EDR-spotting and DNS-based C2 communication.",
+        "published": "2025-07-16"
+    },
+    {
+        "title": "Women Who 'Hacked the Status Quo' Aim to Inspire Cybersecurity Careers",
+        "link": "https://www.darkreading.com/cybersecurity-operations/women-hacked-status-quo-cybersecurity-careers",
+        "summary": "A group of female cybersecurity pioneers will share what they've learned about navigating a field dominated by men, in order to help other women empower themselves and pursue successful cybersecurity careers.",
+        "published": "2025-07-16"
+    },
+    {
+        "title": "Fully Patched SonicWall Gear Under Likely Zero-Day Attack",
+        "link": "https://www.darkreading.com/remote-workforce/fully-patched-sonicwall-gear-zero-day-attack",
+        "summary": "A threat actor with likely links to the Abyss ransomware group is leveraging an apparent zero-day vulnerability to deploy the \"Overstep\" backdoor on fully up-to-date appliances.",
+        "published": "2025-07-16"
+    },
+    {
+        "title": "Demonstrating Cybersecurity's Return",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/securing-budget-cybersecurity-return",
+        "summary": "By tying security investments to measurable outcomes \u2014 like reduced breach likelihood and financial impact \u2014 CISOs can align internal stakeholders and justify spending based on real-world risk.",
+        "published": "2025-07-16"
+    },
+    {
+        "title": "AsyncRAT Spawns Concerning Labyrinth of Forks",
+        "link": "https://www.darkreading.com/remote-workforce/async-rat-labyrinth-forks",
+        "summary": "Since surfacing on GitHub in 2019, AsyncRAT has become a poster child for how open source malware can democratize cybercrime, with a mazelike footprint of variants available across the spectrum of functionality.",
+        "published": "2025-07-15"
+    },
+    {
+        "title": "Attackers Abuse AWS Cloud to Target Southeast Asian Governments",
+        "link": "https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat",
+        "summary": "The intelligence-gathering cyber campaign introduces the novel HazyBeacon backdoor and uses legitimate cloud communication channels for command-and-control (C2) and exfiltration to hide its malicious activities.",
+        "published": "2025-07-15"
+    },
+    {
+        "title": "How Criminal Networks Exploit Insider Vulnerabilities",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities",
+        "summary": "Criminal networks are adapting quickly, and they're betting that companies won't keep pace. Let's prove them wrong.",
+        "published": "2025-07-15"
+    },
+    {
+        "title": "MITRE Launches AADAPT Framework for Financial Systems",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems",
+        "summary": "The new framework is modeled after and meant to complement the MITRE ATT&CK framework, and it is aimed at detecting and responding to cyberattacks on cryptocurrency assets and other financial targets.",
+        "published": "2025-07-15"
+    },
+    {
         "title": "5 features you're not taking advantage of",
         "link": "https://www.zdnet.com/article/your-tvs-usb-port-is-seriously-underutilized-5-features-youre-not-taking-advantage-of/",
         "summary": "While the USB port is an older technology, it remains remarkably versatile, offering more functionalities than commonly perceived. Here are some notable examples.",
@@ -114,9 +270,9 @@
         "published": "2025-07-24"
     },
     {
-        "title": "This HP OmniBook finally sold me on the 2-in-1 laptop design (and it's on sale for $400 off)",
-        "link": "https://www.zdnet.com/article/this-hp-omnibook-finally-sold-me-on-the-2-in-1-laptop-design-and-its-on-sale-for-400-off/",
-        "summary": "The HP OmniBook X Flip 16 combines some of the best features from its contemporaries into a sleek, well-designed device.",
+        "title": "Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices",
+        "link": "https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html",
+        "summary": "Sophos and SonicWall have alerted users of critical security flaws in Sophos Firewall and Secure Mobile Access (SMA) 100 Series appliances that could be exploited to achieve remote code execution.\u00a0\nThe two vulnerabilities impacting Sophos Firewall are listed below -\n\nCVE-2025-6704 (CVSS score: 9.8) - An arbitrary file writing vulnerability in the Secure PDF eXchange (SPX) feature can lead",
         "published": "2025-07-24"
     },
     {
@@ -390,12 +546,6 @@
         "published": "2025-07-16"
     },
     {
-        "title": "Google AI \"Big Sleep\" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act",
-        "link": "https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html",
-        "summary": "Google on Tuesday revealed that its large language model (LLM)-assisted vulnerability discovery framework identified a security flaw in the SQLite open-source database engine before it could have been exploited in the wild.\nThe vulnerability, tracked as CVE-2025-6965 (CVSS score: 7.2), is a memory corruption flaw affecting all versions prior to 3.50.2. It was discovered by Big Sleep, an",
-        "published": "2025-07-16"
-    },
-    {
         "title": "The \u201cS\u201d in Vibe Coding Stands for Security",
         "link": "https://securityboulevard.com/2025/07/the-s-in-vibe-coding-stands-for-security/?utm_source=rss&utm_medium=rss&utm_campaign=the-s-in-vibe-coding-stands-for-security",
         "summary": "\nVibe coding is here. And it\u2019s not just a fad \u2014 it\u2019s reshaping how we build, deploy and even conceive of software. But unless we hit the brakes and bake in security now, we\u2019re setting ourselves up for another generation of vulnerabilities, exploits and blame games.\nThe post The \u201cS\u201d in Vibe Coding Stands for Security appeared first on Security Boulevard.",
@@ -618,6 +768,12 @@
         "published": "2025-07-08"
     },
     {
+        "title": "Compromised Amazon Q extension told AI to delete everything \u2013 and it shipped",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/amazon_q_ai_prompt/",
+        "summary": "Malicious actor reportedly sought to expose AWS 'security theater' The official Amazon Q extension for Visual Studio Code (VS Code) was compromised to include a prompt to wipe the user's home directory and delete all their AWS resources.\u2026",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Eau no! Dior tells customers their data was swiped in cyber snafu",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/eau_no_dior_tells_customers/",
         "summary": "French fashion house dishes out notices after hackers raided a client database \u2013 ShinyHunters suspected Updated\u00a0 Fashion house Dior has begun dropping data breach notices after cybercrooks with a taste for high-end targets made off with customer data.\u2026",
@@ -778,11 +934,5 @@
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/13/infosec_in_brief/",
         "summary": "PLUS: Bluetooth mess leaves cars exposed; Bitcoin ATMs attacked; Deepfakers imitate US secretary of state Marco Rubio; and more Infosec In Brief\u00a0 Nvidia last week advised customers to ensure they employ mitigations against Rowhammer attacks, after researchers found one of its workstation-grade GPUs is susceptible to the exploit.\u2026",
         "published": "2025-07-13"
-    },
-    {
-        "title": "CVSS 10 RCE in Wing FTP exploited within 24 hours, security researchers warn",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/11/1010_wing_ftp_bug_exploited/",
-        "summary": "Intruders looked up how to use curl mid-attack - rookie errors kept damage minimal Huntress security researchers observed exploitation of the CVSS 10.0 remote code execution (RCE) flaw in Wing FTP Server on July 1, just one day after its public disclosure.\u2026",
-        "published": "2025-07-11"
     }
 ]
