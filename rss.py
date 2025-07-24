@@ -57,7 +57,8 @@ def process_rss_feeds(json_filename='cybersecnews.json'):
         'https://blog.malwarebytes.com/feed/',
         'https://security.googleblog.com/feeds/posts/default',
         'https://www.theregister.com/security/headlines.atom',
-        'https://databreaches.net/feed'
+        'https://databreaches.net/feed',
+        'https://feeds.reuters.com/reuters/technologyNews'
     ]
 
     keywords = [
