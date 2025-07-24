@@ -114,6 +114,12 @@
         "published": "2025-07-24"
     },
     {
+        "title": "Law Enforcement Cracks Down on XSS \u2014 but Will It Last?",
+        "link": "https://www.darkreading.com/threat-intelligence/law-enforcement-cracks-down-xss",
+        "summary": "The arrest of a suspected administrator for the popular cybercrime forum was one of several enforcement actions in the past week targeting malicious activity.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Ransomware Actors Pile on 'ToolShell' SharePoint Bugs",
         "link": "https://www.darkreading.com/endpoint-security/ransomware-actors-toolshell-sharepoint-bugs",
         "summary": "Storm-2603, a China-based threat actor, is targeting SharePoint customers in an ongoing ransomware campaign.",
@@ -164,7 +170,7 @@
     {
         "title": "How IT and OT Security Worlds Are Converging",
         "link": "https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security",
-        "summary": "Dark Reading's Kelly Jackson Higgins interviews Carmine Valente, Deputy CISO at Con Edison, about his role at the New York-based electric utility and the state of IT and OT security. Valente highlights current threats like ransomware and supply chain attacks, as well as the impact of AI on both defense and threats.",
+        "summary": "Dark Reading's Kelly Jackson Higgins interviews Carmine Valente, deputy CISO at Con Edison, about his role at the New York-based electric utility and the state of IT and OT security. Valente highlights current threats, including ransomware and supply chain attacks, as well as the impact of AI on both defense and threats.",
         "published": "2025-07-22"
     },
     {
@@ -261,12 +267,6 @@
         "title": "Attackers Abuse AWS Cloud to Target Southeast Asian Governments",
         "link": "https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat",
         "summary": "The intelligence-gathering cyber campaign introduces the novel HazyBeacon backdoor and uses legitimate cloud communication channels for command-and-control (C2) and exfiltration to hide its malicious activities.",
-        "published": "2025-07-15"
-    },
-    {
-        "title": "How Criminal Networks Exploit Insider Vulnerabilities",
-        "link": "https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities",
-        "summary": "Criminal networks are adapting quickly, and they're betting that companies won't keep pace. Let's prove them wrong.",
         "published": "2025-07-15"
     },
     {
@@ -634,12 +634,6 @@
         "link": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/",
         "summary": "Unit 42 details recent Iranian cyberattack activity, sharing direct observations. Tactical and strategic recommendations are provided for defenders.\nThe post Threat Brief: Escalation of Cyber Risk Related to Iran (Updated June 30) appeared first on Unit 42.",
         "published": "2025-06-25"
-    },
-    {
-        "title": "Cybercriminals Abuse Open-Source Tools To Target Africa\u2019s Financial Sector",
-        "link": "https://unit42.paloaltonetworks.com/cybercriminals-attack-financial-sector-across-africa/",
-        "summary": "Cybercriminals are targeting financial organizations across Africa, potentially acting as initial access brokers selling data on the dark web.\nThe post Cybercriminals Abuse Open-Source Tools To Target Africa\u2019s Financial Sector appeared first on Unit 42.",
-        "published": "2025-06-24"
     },
     {
         "title": "Rumble in the jungle or APT41\u2019s new target in Africa",
