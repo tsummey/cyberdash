@@ -1,5 +1,11 @@
 [
     {
+        "title": "Phishers Target Aviation Execs to Scam Customers",
+        "link": "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/",
+        "summary": "KrebsOnSecurity recently heard from a reader whose boss's email account got phished and was used to trick one of the company's customers into sending a large payment to scammers. An investigation into the attacker's infrastructure points to a long-running Nigerian cybercrime group that is actively targeting established companies in the transportation and aviation industries.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "Microsoft Fix Targets Attacks on SharePoint Zero-Day",
         "link": "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/",
         "summary": "On Sunday, July 20, Microsoft Corp. issued an emergency security update for a vulnerability in SharePoint Server that is actively being exploited to compromise vulnerable organizations. The patch comes amid reports that malicious hackers have used the Sharepoint flaw to breach U.S. federal and state agencies, universities, and energy companies.",
@@ -36,6 +42,18 @@
         "published": "2025-06-27"
     },
     {
+        "title": "TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands",
+        "link": "https://cybersecuritynews.com/tp-link-network-video-recorder-vulnerability/",
+        "summary": "Two high-severity vulnerabilities in TP-Link VIGI network video recorder (NVR) systems could allow attackers to execute arbitrary commands on affected devices.\u00a0 The security flaws, identified as CVE-2025-7723 and CVE-2025-7724, impact the VIGI NVR1104H-4P V1 and VIGI NVR2016H-16MP V2 models, posing significant risks to surveillance infrastructure security. Key Takeaways1. Two serious vulnerabilities let attackers run commands [\u2026]\nThe post TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands appeared first on Cyber Security News.",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "SharePoint 0-day Vulnerability Exploited in Wild by All Sorts of Hacker Groups",
+        "link": "https://cybersecuritynews.com/sharepoint-0-day-vulnerability-exploited/",
+        "summary": "A critical zero-day vulnerability in Microsoft SharePoint servers has become a playground for threat actors across the cybercriminal spectrum, with attacks ranging from opportunistic hackers to sophisticated nation-state groups since mid-July 2025. On July 19, 2025, Microsoft confirmed that vulnerabilities collectively known as \u201cToolShell\u201d were being actively exploited in the wild. The exploit chain comprises [\u2026]\nThe post SharePoint 0-day Vulnerability Exploited in Wild by All Sorts of Hacker Groups appeared first on Cyber Security News.",
+        "published": "2025-07-24"
+    },
+    {
         "title": "First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology",
         "link": "https://cybersecuritynews.com/llm-powered-malware-from-apt28-hackers-integrates-ai-capabilities/",
         "summary": "The newly revealed LAMEHUG campaign signals a watershed moment for cyber-def: Russian state-aligned APT28 has fused a large language model (LLM) directly into live malware, allowing each infected host to receive tailor-made shell commands on the fly. By invoking the Qwen2.5-Coder-32B-Instruct model through Hugging Face\u2019s public API, the attackers sidestep traditional static payload constraints and [\u2026]\nThe post First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology appeared first on Cyber Security News.",
@@ -69,12 +87,6 @@
         "title": "Chinese Hackers Attacking Windows Systems in Targeted Campaign to Deploy Ghost RAT and PhantomNet Malwares",
         "link": "https://cybersecuritynews.com/chinese-hackers-attacking-windows-systems-in-targeted-campaign/",
         "summary": "Threat researchers are warning of twin Chinese-nexus espionage operations\u2014\u201cOperation Chat\u201d and \u201cOperation PhantomPrayers\u201d\u2014that erupted in the weeks preceding the Dalai Lama\u2019s 90th birthday, exploiting heightened traffic to Tibetan-themed websites to seed Windows hosts with sophisticated backdoors. By compromising a legitimate greeting page and quietly swapping its hyperlink, attackers funneled visitors to look-alike domains under niccenter[.]net, [\u2026]\nThe post Chinese Hackers Attacking Windows Systems in Targeted Campaign to Deploy Ghost RAT and PhantomNet Malwares appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Google Launches OSS Rebuild to Strengthen Security of The Open-Source Package Ecosystems",
-        "link": "https://cybersecuritynews.com/google-launches-oss-rebuild-to-strengthen-security/",
-        "summary": "Modern software supply-chains rely on millions of third-party components, making package repositories a lucrative for attackers. Over the past year, a string of high-profile compromises\u2014from the xz-utils backdoor to the solana/webjs typosquatting incident\u2014has shown how stealthy code can poison widely deployed libraries before defenders notice. Google\u2019s newly announced OSS Rebuild initiative confronts this problem head-on [\u2026]\nThe post Google Launches OSS Rebuild to Strengthen Security of The Open-Source Package Ecosystems appeared first on Cyber Security News.",
         "published": "2025-07-24"
     },
     {
@@ -270,21 +282,15 @@
         "published": "2025-07-24"
     },
     {
-        "title": "Microsoft fixes SharePoint zero-day exploits used in cyberattacks and ransomware - how to patch them",
-        "link": "https://www.zdnet.com/article/microsoft-fixes-sharepoint-zero-day-exploits-used-in-cyberattacks-and-ransomware-how-to-patch-them/",
-        "summary": "Microsoft has pointed the finger at three Chinese nation-state actors for exploiting the SharePoint vulnerabilities. Here's what we know about the security flaws and how to guard against future attacks.",
+        "title": "Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems",
+        "link": "https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html",
+        "summary": "Mitel has released security updates to address a critical security flaw in MiVoice MX-ONE that could allow an attacker to bypass authentication protections.\n\"An authentication bypass vulnerability has been identified in the Provisioning Manager component of Mitel MiVoice MX-ONE, which, if successfully exploited, could allow an unauthenticated attacker to conduct an authentication bypass attack",
         "published": "2025-07-24"
     },
     {
-        "title": "You can buy Lenovo's 'rollable' laptop now - not cheap, but packed with killer specs",
-        "link": "https://www.zdnet.com/article/you-can-buy-lenovos-rollable-laptop-now-not-cheap-but-packed-with-killer-specs/",
-        "summary": "The buzzworthy ThinkBook with an extendable display first debuted at CES as a proof of concept, but now it's finally available to consumers.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant - and devs are worried",
-        "link": "https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/",
-        "summary": "Had Q executed this, it would have erased local files and, under certain conditions, dismantled AWS cloud infrastructure.",
+        "title": "Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments",
+        "link": "https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html",
+        "summary": "Virtualization and networking infrastructure have been targeted by a threat actor codenamed Fire Ant as part of a prolonged cyber espionage campaign.\nThe activity, observed this year, is primarily designed Now to infiltrate organizations' VMware ESXi and vCenter environments as well as network appliances, Sygnia said in a new report published today.\n\"The threat actor leveraged combinations of",
         "published": "2025-07-24"
     },
     {
@@ -552,18 +558,6 @@
         "published": "2025-07-16"
     },
     {
-        "title": "New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code",
-        "link": "https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html",
-        "summary": "Cybersecurity researchers have discovered a new, sophisticated variant of a known Android malware referred to as Konfety that leverages the evil twin technique to enable ad fraud.\nThe sneaky approach essentially involves a scenario wherein two variants of an application share the same package name: A benign \"decoy\" app that's hosted on the Google Play Store and its evil twin, which is",
-        "published": "2025-07-16"
-    },
-    {
-        "title": "Deepfakes. Fake Recruiters. Cloned CFOs \u2014 Learn How to Stop AI-Driven Attacks in Real Time",
-        "link": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html",
-        "summary": "Social engineering attacks have entered a new era\u2014and they\u2019re coming fast, smart, and deeply personalized.\nIt\u2019s no longer just suspicious emails in your spam folder. Today\u2019s attackers use generative AI, stolen branding assets, and deepfake tools to mimic your executives, hijack your social channels, and create convincing fakes of your website, emails, and even voice. They don\u2019t just spoof\u2014they",
-        "published": "2025-07-16"
-    },
-    {
         "title": "Cognizant Agents Gave Hackers Passwords, Clorox Says in Lawsuit",
         "link": "https://securityboulevard.com/2025/07/cognizant-agents-gave-hackers-gave-passwords-clorox-says-in-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=cognizant-agents-gave-hackers-gave-passwords-clorox-says-in-lawsuit",
         "summary": "\nClorox is suing Cognizant for $380 million, saying the IT services provider's service desk put in place to protect the multinational company from cyber risks in 2023 gave hackers password resets and other credentials when asked without verifying the identities of people making the requests.\nThe post Cognizant Agents Gave Hackers Passwords, Clorox Says in Lawsuit appeared first on Security Boulevard.",
@@ -784,6 +778,18 @@
         "link": "http://security.googleblog.com/2025/07/advancing-protection-in-chrome-on.html",
         "summary": "Posted by David Adrian, Javier Castro & Peter Kotwicz, Chrome Security Team\n\nAndroid recently announced Advanced Protection, which extends Google\u2019s Advanced Protection Program to a device-level security setting for Android users that need heightened security\u2014such as journalists, elected officials, and public figures. Advanced Protection gives you the ability to activate Google\u2019s strongest security for mobile devices, providing greater peace of mind that you\u2019re better protected against the most sophisticated threats.\n\n\nAdvanced Protection acts as a single control point for at-risk users on Android that enables important security settings across applications, including many of your favorite Google apps, including Chrome. In this post, we\u2019d like to do a deep dive into the Chrome features that are integrated with Advanced Protection, and how enterprises and users outside of Advanced Protection can leverage them.\n\n\nAndroid Advanced Protection integrates with Chrome on Android in three main ways:\n\n\nEnables the \u201cAlways Use Secure Connections\u201d setting for both public and private sites, so that users are protected from attackers reading confidential data or injecting malicious content into insecure plaintext HTTP connections. Insecure HTTP represents less than 1% of page loads for Chrome on Android. \nEnables full Site Isolation on mobile devices with 4GB+ RAM, so that potentially malicious sites are never loaded in the same process as legitimate websites. Desktop Chrome clients already have full Site Isolation.\nReduces attack surface by disabling Javascript optimizations, so that Chrome has a smaller attack surface and is harder to exploit.\n\n\nLet\u2019s take a look at all three, learn what they do, and how they can be controlled outside of Advanced Protection.\n\nAlways Use Secure Connections\n\n\u201cAlways Use Secure Connections\u201d (also known as HTTPS-First Mode in blog posts and HTTPS-Only Mode in the enterprise policy) is a Chrome setting that forces HTTPS wherever possible, and asks for explicit permission from you before connecting to a site insecurely. There may be attackers attempting to interpose on connections on any network, whether that network is a coffee shop, airport, or an Internet backbone. This setting protects users from these attackers reading confidential data and injecting malicious content into otherwise innocuous webpages. This is particularly useful for Advanced Protection users, since in 2023, plaintext HTTP was used as an exploitation vector during the Egyptian election.\n\n\nBeyond Advanced Protection, we previously posted about how our goal is to eventually enable \u201cAlways Use Secure Connections\u201d by default for all Chrome users. As we work towards this goal, in the last two years we have quietly been enabling it in more places beyond Advanced Protection, to help protect more users in risky situations, while limiting the number of warnings users might click through:\n\n\nWe added a new variant of the setting that only warns on public sites, and doesn\u2019t warn on local networks or single-label hostnames (e.g. 192.168.0.1, shortlink/, 10.0.0.1). These names often cannot be issued a publicly-trusted HTTPS certificate. This variant protects against most threats\u2014accessing a public website insecurely\u2014but still allows for users to access local sites, which may be on a more trusted network, without seeing a warning. \nWe\u2019ve automatically enabled \u201cAlways Use Secure Connections\u201d for public sites in Incognito Mode for the last year, since Chrome 127 in June 2024.\nWe automatically prevent downgrades from HTTPS to plaintext HTTP on sites that Chrome knows you typically access over HTTPS (a heuristic version of the HSTS header), since Chrome 133 in January 2025.Always Use Secure Connections has two modes\u2014warn on insecure public sites, and warn on any insecure site.\n\nAny user can enable \u201cAlways Use Secure Connections\u201d in the Chrome Privacy and Security settings, regardless of if they\u2019re using Advanced Protection. Users can choose if they would like to warn on any insecure site, or only insecure public sites. Enterprises can opt their fleet into either mode, and set exceptions using the HTTPSOnlyMode and HTTPAllowlist policies, respectively. Website operators should protect their users' confidentiality, ensure their content is delivered exactly as they intended, and avoid warnings, by deploying HTTPS.Full Site IsolationSite Isolation is a security feature in Chrome that isolates each website into its own rendering OS process. This means that different websites, even if loaded in a single tab of the same browser window, are kept completely separate from each other in memory. This isolation prevents a malicious website from accessing data or code from another website, even if that malicious website manages to exploit a vulnerability in Chrome\u2019s renderer\u2014a second bug to escape the renderer sandbox is required to access other sites. Site isolation improves security, but requires extra memory to have one process per site. Chrome Desktop isolates all sites by default. However, Android is particularly sensitive to memory usage, so for mobile Android form factors, when Advanced Protection is off, Chrome will only isolate a site if a user logs into that site, or if the user submits a form on that site. On Android devices with 4GB+ RAM in Advanced Protection (and on all desktop clients), Chrome will isolate all sites. Full Site Isolation significantly reduces the risk of cross-site data leakage for Advanced Protection users.\nJavaScript Optimizations and Security\nAdvanced Protection reduces the attack surface of Chrome by disabling the higher-level optimizing Javascript compilers inside V8. V8 is Chrome\u2019s high-performance Javascript and WebAssembly engine. The optimizing compilers in V8 make certain websites run faster, however they historically also have been a source of known exploitation of Chrome. Of all the patched security bugs in V8 with known exploitation, disabling the optimizers would have mitigated ~50%. However, the optimizers are why Chrome scores the highest on industry-wide benchmarks such as Speedometer. Disabling the optimizers blocks a large class of exploits, at the cost of causing performance issues for some websites.\n\nJavascript optimizers can be disabled outside of Advanced Protection Mode via the \u201cJavascript optimization & security\u201d Site Setting. The Site Setting also enables users to disable/enable Javascript optimizers on a per-site basis. Disabling these optimizing compilers is not limited to Advanced Protection. Since Chrome 133, we\u2019ve exposed this as a Site Setting that allows users to enable or disable the higher-level optimizing compilers on a per-site basis, as well as change the default.\nSettings -> Privacy and Security -> Javascript optimization and security\n\nThis setting can be controlled by the DefaultJavaScriptOptimizerSetting  enterprise policy, alongside JavaScriptOptimizerAllowedForSites and JavaScriptOptimizerBlockedForSites for managing the allowlist and denylist. Enterprises can use this policy to block access to the optimizer, while still allowlisting1 the SaaS vendors their employees use on a daily basis. It\u2019s available on Android and desktop platforms\n\n\nChrome aims for the default configuration to be secure for all its users, and we\u2019re continuing to raise the bar for V8 security in the default configuration by rolling out the V8 sandbox. \nProtecting All Users\nBillions of people use Chrome and Android, and not all of them have the same risk profile. Less sophisticated attacks by commodity malware can be very lucrative for attackers when done at scale, but so can sophisticated attacks on targeted users. This means that we cannot expect the security tradeoffs we make for the default configuration of Chrome to be suitable for everyone. \n\nAdvanced Protection, and the security settings associated with it, are a way for users with varying risk profiles to tailor Chrome to their security needs, either as an individual at-risk user. Enterprises with a fleet of managed Chrome installations can also enable the underlying settings now. Advanced Protection is available on Android 16 in Chrome 137+. \n\nWe additionally recommend at-risk users join the Advanced Protection Program with their Google accounts, which will require the account to use phishing-resistant multi-factor authentication methods and enable Advanced Protection on any of the user\u2019s Android devices. We also recommend users enable automatic updates and always keep their Android phones and web browsers up to date.\n\nNotes\n     Allowlisting only works on platforms capable of full site isolation\u2014any desktop platform and Android devices with 2GB+ RAM. This is because internally allowlisting is dependent on origin isolation.\u00a0\u21a9",
         "published": "2025-07-08"
+    },
+    {
+        "title": "Cisco ISE flaw gave root access before fix arrived, say researchers",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/no_login_no_problem_cisco_flaw/",
+        "summary": "Shadowserver claims miscreants were already poking at a critical hole in early July, long before Switchzilla patched it Threat actors have actively exploited a newly patched vulnerability in Cisco's Identity Services Engine (ISE) software since early July, weeks before the networking giant got around to issuing a fix.\u2026",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "UnMarker tool nukes AI provenance tags",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/ai_watermarks_unmarker/",
+        "summary": "Boffins insist your deepfake tracking tech won't work Computer scientists with the University of Waterloo in Ontario, Canada, say they've developed a way to remove watermarks embedded in AI-generated images.\u2026",
+        "published": "2025-07-24"
     },
     {
         "title": "SharePoint attacks now officially include ransomware infections",
