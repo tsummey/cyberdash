@@ -42,6 +42,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Malicious Android Apps Mimic as Popular Indian Banking Apps Steal Login Credentials",
+        "link": "https://cybersecuritynews.com/malicious-android-apps-mimic-as-popular-indian-banking-apps/",
+        "summary": "Attackers are weaponizing India\u2019s appetite for mobile banking by circulating counterfeit Android apps that mimic the interfaces and icons of public-sector and private banks. Surfacing in telemetry logs on 3 April 2025, the impostors travel through smishing texts, QR codes and search-engine poisoning, tricking users into sideloading the packages. During the initial execution window, a [\u2026]\nThe post Malicious Android Apps Mimic as Popular Indian Banking Apps Steal Login Credentials appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Fire Ant Hackers Exploiting Vulnerabilities in VMware ESXi and vCenter to Infiltrate Organizations",
         "link": "https://cybersecuritynews.com/vmware-esxi-and-vcenter-exploited/",
         "summary": "A sophisticated espionage campaign dubbed \u201cFire Ant\u201d demonstrates previously unknown capabilities in compromising VMware virtualization infrastructure.\u00a0 Since early 2025, this threat actor has systematically targeted VMware ESXi hosts, vCenter servers, and network appliances using hypervisor-level techniques that evade traditional endpoint security solutions.\u00a0 The campaign exhibits strong technical overlap with the previously identified UNC3886 threat group, [\u2026]\nThe post Fire Ant Hackers Exploiting Vulnerabilities in VMware ESXi and vCenter to Infiltrate Organizations appeared first on Cyber Security News.",
@@ -96,9 +102,15 @@
         "published": "2025-07-25"
     },
     {
-        "title": "Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent",
-        "link": "https://cybersecuritynews.com/amazons-ai-coding-agent-exploited/",
-        "summary": "A malicious pull request slipped through Amazon\u2019s review process and into version 1.84.0 of the Amazon Q extension for Visual Studio Code, briefly arming the popular AI assistant with instructions to wipe users\u2019 local files and AWS resources. The rogue code discovered included a system prompt directing the agent to \u201crestore the system to a [\u2026]\nThe post Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent appeared first on Cyber Security News.",
+        "title": "Chinese Spies Target Networking and Virtualization Flaws to Breach Isolated Environments",
+        "link": "https://www.securityweek.com/chinese-spies-target-networking-and-virtualization-flaws-to-breach-isolated-environments/",
+        "summary": "Chinese cyberespionage group Fire Ant is targeting virtualization and networking infrastructure to access isolated environments.\nThe post Chinese Spies Target Networking and Virtualization Flaws to Breach Isolated Environments appeared first on SecurityWeek.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking",
+        "link": "https://www.securityweek.com/no-patch-for-flaw-exposing-hundreds-of-lg-cameras-to-remote-hacking/",
+        "summary": "LG Innotek LNV5110R security cameras are affected by a vulnerability that can be exploited for unauthenticated remote code execution.\nThe post No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking appeared first on SecurityWeek.",
         "published": "2025-07-25"
     },
     {
@@ -123,12 +135,6 @@
         "title": "SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack",
         "link": "https://www.securityweek.com/sonicwall-patches-critical-sma-100-vulnerability-warns-of-recent-malware-attack/",
         "summary": "SonicWall advises organizations to patch SMA 100 appliances and look for IoCs associated with Overstep malware attacks.\nThe post SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack appeared first on SecurityWeek.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named",
-        "link": "https://www.securityweek.com/toolshell-attacks-hit-400-sharepoint-servers-us-government-victims-named/",
-        "summary": "More information has emerged on the ToolShell SharePoint zero-day attacks, including impact, victims, and threat actors.\nThe post ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named appeared first on SecurityWeek.",
         "published": "2025-07-24"
     },
     {
