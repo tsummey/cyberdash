@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+        xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        >
+
+<channel>
+        <title>BleepingComputer</title>
+
+        <link>https://www.bleepingcomputer.com/</link>
+        <description>BleepingComputer - All Stories</description>
+        <pubDate>Thu, 24 Jul 2025 20:52:55 EDT</pubDate>
+        <generator>https://www.bleepingcomputer.com/</generator>
+        <language>en</language>
+        <atom:link href="https://www.bleepingcomputer.com/feed/" rel="self" type="application/rss+xml" />
+	
+ <item>
+        <title>BlackSuit ransomware extortion sites seized in Operation Checkmate</title>
+        <link>https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/</link>
+        <pubDate>Thu, 24 Jul 2025 17:34:13 -0400</pubDate>
+        <dc:creator>Sergiu Gatlan</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/</guid>
+	<description><![CDATA[Law enforcement has seized the dark web extortion sites of the BlackSuit ransomware operation, which has targeted and breached the networks of hundreds of organizations worldwide over the past several years. [...]]]></description>
+ </item>
+
+ <item>
+        <title>OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users</title>
+        <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/</link>
+        <pubDate>Thu, 24 Jul 2025 16:59:14 -0400</pubDate>
+        <dc:creator>Mayank Parmar</dc:creator>
+
+        
+        <category><![CDATA[Artificial Intelligence]]></category>
+
+        <category><![CDATA[Technology]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/</guid>
+	<description><![CDATA[ChatGPT Agent is now rolling out to users with $20 Plus subscription, but OpenAI warns that it will take a few days for the rollout to finish. [...]]]></description>
+ </item>
+
+ <item>
+        <title>New Koske Linux malware hides in cute panda images</title>
+        <link>https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/</link>
+        <pubDate>Thu, 24 Jul 2025 16:54:10 -0400</pubDate>
+        <dc:creator>Bill Toulas</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+        <category><![CDATA[CryptoCurrency]]></category>
+
+        <category><![CDATA[Linux]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/</guid>
+	<description><![CDATA[A new Linux malware named Koske may have been developed with artificial intelligence and is using seemingly benign JPEG images of panda bears to deploy malware directly into system memory. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Hacker sneaks infostealer malware into early access Steam game</title>
+        <link>https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/</link>
+        <pubDate>Thu, 24 Jul 2025 12:49:47 -0400</pubDate>
+        <dc:creator>Bill Toulas</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+        <category><![CDATA[Gaming]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/</guid>
+	<description><![CDATA[A threat actor called EncryptHub has compromised a game on Steam to distribute info-stealing malware to unsuspecting users downloading the title. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Mitel warns of critical MiVoice MX-ONE authentication bypass flaw</title>
+        <link>https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</link>
+        <pubDate>Thu, 24 Jul 2025 11:17:40 -0400</pubDate>
+        <dc:creator>Sergiu Gatlan</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</guid>
+	<description><![CDATA[Mitel Networks has released security updates to patch a critical-severity authentication bypass vulnerability impacting its MiVoice MX-ONE enterprise communications platform. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Hackers breach Toptal GitHub account, publish malicious npm packages</title>
+        <link>https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/</link>
+        <pubDate>Thu, 24 Jul 2025 09:26:04 -0400</pubDate>
+        <dc:creator>Bill Toulas</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/</guid>
+	<description><![CDATA[Hackers compromised Toptal's GitHub organization account and used their access to publish ten malicious packages on the Node Package Manager (NPM) index. [...]]]></description>
+ </item>
+
+ <item>
+        <title>SonicWall urges admins to patch critical RCE flaw in SMA 100 devices</title>
+        <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/</link>
+        <pubDate>Thu, 24 Jul 2025 07:17:39 -0400</pubDate>
+        <dc:creator>Sergiu Gatlan</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/</guid>
+	<description><![CDATA[SonicWall urges customers to patch SMA 100 series appliances against a critical authenticated arbitrary file upload vulnerability that can let attackers gain remote code execution. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Microsoft: SharePoint flaws exploited in Warlock ransomware attacks</title>
+        <link>https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/</link>
+        <pubDate>Thu, 24 Jul 2025 05:53:14 -0400</pubDate>
+        <dc:creator>Sergiu Gatlan</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+        <category><![CDATA[Microsoft]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/</guid>
+	<description><![CDATA[A China-based hacking group is deploying Warlock ransomware on Microsoft SharePoint servers vulnerable to widespread attacks targeting the recently patched ToolShell zero-day exploit chain. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Brave blocks Windows Recall from screenshotting your browsing activity</title>
+        <link>https://www.bleepingcomputer.com/news/security/brave-blocks-windows-recall-from-screenshotting-your-browsing-activity/</link>
+        <pubDate>Wed, 23 Jul 2025 18:42:05 -0400</pubDate>
+        <dc:creator>Lawrence Abrams</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+        <category><![CDATA[Microsoft]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/brave-blocks-windows-recall-from-screenshotting-your-browsing-activity/</guid>
+	<description><![CDATA[Brave Software says its privacy-focused browser will block Microsoft's Windows Recall from capturing screenshots of Brave windows by default to protect users' privacy. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Proton launches privacy-respecting encrypted AI assistant Lumo</title>
+        <link>https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/</link>
+        <pubDate>Wed, 23 Jul 2025 13:41:11 -0400</pubDate>
+        <dc:creator>Bill Toulas</dc:creator>
+
+        
+        <category><![CDATA[Artificial Intelligence]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/</guid>
+	<description><![CDATA[Proton has launched a new tool called Lumo, offering a privacy-first AI assistant that does not log user conversations and doesn't use their prompts for training. [...]]]></description>
+ </item>
+
+ <item>
+        <title>Hackers fooled Cognizant help desk, says Clorox in $380M cyberattack lawsuit</title>
+        <link>https://www.bleepingcomputer.com/news/security/hackers-fooled-cognizant-help-desk-says-clorox-in-380m-cyberattack-lawsuit/</link>
+        <pubDate>Wed, 23 Jul 2025 13:20:40 -0400</pubDate>
+        <dc:creator>Bill Toulas</dc:creator>
+
+        
+        <category><![CDATA[Security]]></category>
+
+        <category><![CDATA[Legal]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/security/hackers-fooled-cognizant-help-desk-says-clorox-in-380m-cyberattack-lawsuit/</guid>
+	<description><![CDATA[Clorox is suing IT giant Cognizant for gross negligence, alleging it enabled a massive August 2023 cyberattack by resetting an employee's password for a hacker without first verifying their identity. [...]]]></description>
+ </item>
+
+ <item>
+        <title>ChatGPT is rolling out 'personality' toggles to become your assistant</title>
+        <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/</link>
+        <pubDate>Wed, 23 Jul 2025 13:07:48 -0400</pubDate>
+        <dc:creator>Mayank Parmar</dc:creator>
+
+        
+        <category><![CDATA[Artificial Intelligence]]></category>
+
+        <category><![CDATA[Technology]]></category>
+
+
+        <guid>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/</guid>
+	<description><![CDATA[OpenAI is rolling out a new "personality" feature on the ChatGPT web app. This allows you to choose between multiple personalities, such as "Robot." [...]]]></description>
+ </item>
+
+</channel>
+</rss>

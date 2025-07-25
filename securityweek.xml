@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SecurityWeek</title>
+	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.securityweek.com/</link>
+	<description>Cybersecurity News, Insights &#38; Analysis</description>
+	<lastBuildDate>Thu, 24 Jul 2025 13:38:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
+	<title>SecurityWeek</title>
+	<link>https://www.securityweek.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HeroDevs Raises $125 Million to Secure Deprecated OSS</title>
+		<link>https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 13:38:09 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[HeroDevs]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43066</guid>
+
+					<description><![CDATA[<p>HeroDevs has received a $125 million strategic growth investment from PSG to secure enterprise security stacks.</p>
+<p>The post <a href="https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/">HeroDevs Raises $125 Million to Secure Deprecated OSS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York Seeking Public Opinion on Water Systems Cyber Regulations</title>
+		<link>https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 12:54:08 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43065</guid>
+
+					<description><![CDATA[<p>The proposed cyber regulations include the implementation of incident reporting, response plans, and cybersecurity controls, training, and certification of compliance.</p>
+<p>The post <a href="https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/">New York Seeking Public Opinion on Water Systems Cyber Regulations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</title>
+		<link>https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 12:34:47 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[GRC]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Vanta]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43063</guid>
+
+					<description><![CDATA[<p>Risk management and compliance solutions provider Vanta has raised more than $500 million since 2021.</p>
+<p>The post <a href="https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/">GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Clorox Sues Cognizant for $380 Million Over 2023 Hack</title>
+		<link>https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 11:50:29 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Clorox]]></category>
+		<category><![CDATA[Cognizant]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43062</guid>
+
+					<description><![CDATA[<p>Clorox is blaming Congnizat for the 2023 cyberattack, claiming that the IT provided handed over passwords to the hackers.</p>
+<p>The post <a href="https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/">Clorox Sues Cognizant for $380 Million Over 2023 Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>High-Value NPM Developers Compromised in New Phishing Campaign</title>
+		<link>https://www.securityweek.com/high-value-npm-developers-compromised-in-new-phishing-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 11:12:53 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43061</guid>
+
+					<description><![CDATA[<p>Hackers have injected malware into popular NPM packages after compromising several developer accounts in a fresh phishing campaign.</p>
+<p>The post <a href="https://www.securityweek.com/high-value-npm-developers-compromised-in-new-phishing-campaign/">High-Value NPM Developers Compromised in New Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack</title>
+		<link>https://www.securityweek.com/sonicwall-patches-critical-sma-100-vulnerability-warns-of-recent-malware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 10:18:25 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43060</guid>
+
+					<description><![CDATA[<p>SonicWall advises organizations to patch SMA 100 appliances and look for IoCs associated with Overstep malware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-patches-critical-sma-100-vulnerability-warns-of-recent-malware-attack/">SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>From Tech Podcasts to Policy: Trump&#8217;s New AI Plan Leans Heavily on Silicon Valley Industry Ideas</title>
+		<link>https://www.securityweek.com/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 09:23:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Action Plan]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43059</guid>
+
+					<description><![CDATA[<p>President Donald Trump has unveiled a sweeping new plan for America’s “global dominance” in artificial intelligence.</p>
+<p>The post <a href="https://www.securityweek.com/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/">From Tech Podcasts to Policy: Trump&#8217;s New AI Plan Leans Heavily on Silicon Valley Industry Ideas</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named</title>
+		<link>https://www.securityweek.com/toolshell-attacks-hit-400-sharepoint-servers-us-government-victims-named/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 08:58:20 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[ToolShell]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43058</guid>
+
+					<description><![CDATA[<p>More information has emerged on the ToolShell SharePoint zero-day attacks, including impact, victims, and threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/toolshell-attacks-hit-400-sharepoint-servers-us-government-victims-named/">ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI’s Sam Altman Warns of AI Voice Fraud Crisis in Banking</title>
+		<link>https://www.securityweek.com/openais-sam-altman-warns-of-ai-voice-fraud-crisis-in-banking/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 13:22:06 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43053</guid>
+
+					<description><![CDATA[<p>AI voice clones can impersonate people in a way that Altman said is increasingly “indistinguishable from reality” and will require new methods for verification.</p>
+<p>The post <a href="https://www.securityweek.com/openais-sam-altman-warns-of-ai-voice-fraud-crisis-in-banking/">OpenAI’s Sam Altman Warns of AI Voice Fraud Crisis in Banking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Should We Trust AI? Three Approaches to AI Fallibility</title>
+		<link>https://www.securityweek.com/should-we-trust-ai-three-approaches-to-ai-fallibility/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 12:53:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gen-AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43044</guid>
+
+					<description><![CDATA[<p>Experts unpack the risks of trusting agentic AI, arguing that fallibility, hype, and a lack of transparency demand caution—before automation outpaces our understanding.</p>
+<p>The post <a href="https://www.securityweek.com/should-we-trust-ai-three-approaches-to-ai-fallibility/">Should We Trust AI? Three Approaches to AI Fallibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="">
+  <channel>
+    <title>Proofpoint News Feed</title>
+                
+    <item>
+  <title>TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure</link>
+    <pubDate>02 Jul 2025 13:14:54</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Scammers have a new tactic: impersonating DOGE</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/scammers-have-new-tactic-impersonating-doge</link>
+    <pubDate>30 Jun 2025 15:07:43</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group</title>
+  <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager</link>
+    <pubDate>23 Jun 2025 09:14:09</pubDate>
+    <country>US</country>
+    <contentType>Press Release</contentType>
+    </item>
+<item>
+  <title>Proofpoint, Wiz Partner on Cloud Security</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security</link>
+    <pubDate>17 Jun 2025 10:03:12</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe</link>
+    <pubDate>16 Jun 2025 09:33:25</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security</title>
+  <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security</link>
+    <pubDate>16 Jun 2025 08:01:23</pubDate>
+    <country>US</country>
+    <contentType>Press Release</contentType>
+    </item>
+<item>
+  <title>Password Spraying Attacks Hit Entra ID Accounts</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts</link>
+    <pubDate>12 Jun 2025 09:43:37</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands</link>
+    <pubDate>05 Jun 2025 16:33:55</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>Only Malware in the Building: The great CoGUI caper.</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper</link>
+    <pubDate>03 Jun 2025 16:32:37</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+<item>
+  <title>The Evolving Role of the Modern CISO</title>
+  <link>https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso</link>
+    <pubDate>27 May 2025 16:35:17</pubDate>
+    <country>US</country>
+    <contentType>News</contentType>
+    </item>
+
+  </channel>
+</rss>

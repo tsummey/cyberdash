@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DataBreaches.Net</title>
+	<atom:link href="https://databreaches.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://databreaches.net</link>
+	<description></description>
+	<lastBuildDate>Fri, 25 Jul 2025 00:21:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://databreaches.net/wp-content/uploads/databreach2-150x150.png</url>
+	<title>DataBreaches.Net</title>
+	<link>https://databreaches.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The day after XSS.is forum was seized, it struggles to come back online &#8212; but is it really them?</title>
+		<link>https://databreaches.net/2025/07/24/the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them/?pk_campaign=feed&#038;pk_kwd=the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them</link>
+					<comments>https://databreaches.net/2025/07/24/the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them/?pk_campaign=feed&#038;pk_kwd=the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 00:21:44 +0000</pubDate>
+				<category><![CDATA[Commentaries and Analyses]]></category>
+		<category><![CDATA[seizure]]></category>
+		<category><![CDATA[XSS.is]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=123006</guid>
+
+					<description><![CDATA[Ever since law enforcement announced the arrest of an administrator of the XSS.is forum, forum members watched threads disappear from the site, and then a seizure notice splash screen appeared. No administrator or moderator had made any statement about the arrest or situation despite pleas from forum members for some clarification, and attempts to discuss...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F24%2Fthe-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthe-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them&amp;action_name=The+day+after+XSS.is+forum+was+seized%2C+it+struggles+to+come+back+online+%26%238212%3B+but+is+it+really+them%3F&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/24/the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them/?pk_campaign=feed&#038;pk_kwd=the-day-after-xss-is-forum-was-seized-it-struggles-to-come-back-online-but-is-it-really-them/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>U.S. nuclear and health agencies hit in Microsoft SharePoint breach</title>
+		<link>https://databreaches.net/2025/07/24/u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach/?pk_campaign=feed&#038;pk_kwd=u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach</link>
+					<comments>https://databreaches.net/2025/07/24/u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach/?pk_campaign=feed&#038;pk_kwd=u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 11:15:00 +0000</pubDate>
+				<category><![CDATA[Government Sector]]></category>
+		<category><![CDATA[Hack]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[national security]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122994</guid>
+
+					<description><![CDATA[Ellen Nakashima, Joseph Menn and Carolyn Y. Johnson report: The National Institutes of Health and the federal agency responsible for securing the nation’s nuclear weapons were among the victims in a global breach of Microsoft server software over the weekend, according to officials at the agencies. The incident at NIH, which has not been previously reported, involved...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F24%2Fu-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Du-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach&amp;action_name=U.S.+nuclear+and+health+agencies+hit+in+Microsoft+SharePoint+breach&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/24/u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach/?pk_campaign=feed&#038;pk_kwd=u-s-nuclear-and-health-agencies-hit-in-microsoft-sharepoint-breach/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Russia suspected of hacking Dutch prosecution service systems</title>
+		<link>https://databreaches.net/2025/07/24/russia-suspected-of-hacking-dutch-prosecution-service-systems/?pk_campaign=feed&#038;pk_kwd=russia-suspected-of-hacking-dutch-prosecution-service-systems</link>
+					<comments>https://databreaches.net/2025/07/24/russia-suspected-of-hacking-dutch-prosecution-service-systems/?pk_campaign=feed&#038;pk_kwd=russia-suspected-of-hacking-dutch-prosecution-service-systems#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 11:14:43 +0000</pubDate>
+				<category><![CDATA[Government Sector]]></category>
+		<category><![CDATA[Hack]]></category>
+		<category><![CDATA[Non-U.S.]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122997</guid>
+
+					<description><![CDATA[Dutch News reports: There are “strong indications” that Russia was behind a cyber attack on the Dutch public prosecution department’s internal systems, justice ministry sources have told the AD. The affected systems contain sensitive information on ongoing police investigations and court cases, as well as personal data on staff. The department has not yet said...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F24%2Frussia-suspected-of-hacking-dutch-prosecution-service-systems%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Drussia-suspected-of-hacking-dutch-prosecution-service-systems&amp;action_name=Russia+suspected+of+hacking+Dutch+prosecution+service+systems&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/24/russia-suspected-of-hacking-dutch-prosecution-service-systems/?pk_campaign=feed&#038;pk_kwd=russia-suspected-of-hacking-dutch-prosecution-service-systems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Korea imposes 343 million won penalty on HAESUNG DS for data breach of 70,000 shareholders</title>
+		<link>https://databreaches.net/2025/07/24/korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders/?pk_campaign=feed&#038;pk_kwd=korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders</link>
+					<comments>https://databreaches.net/2025/07/24/korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders/?pk_campaign=feed&#038;pk_kwd=korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 11:14:29 +0000</pubDate>
+				<category><![CDATA[Business Sector]]></category>
+		<category><![CDATA[Commentaries and Analyses]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Non-U.S.]]></category>
+		<category><![CDATA[PIPC]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122992</guid>
+
+					<description><![CDATA[Kim Su-jeong reports: The Personal Information Protection Commission announced on the 24th that it imposed a penalty surcharge of 343 million won [USD $250,136.73] on HAESUNG DS, a semiconductor parts company, after it left vulnerabilities in its network security equipment unattended, resulting in a hacker attack that leaked personal information of over 70,000 shareholders. According...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F24%2Fkorea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dkorea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders&amp;action_name=Korea+imposes+343+million+won+penalty+on+HAESUNG+DS+for+data+breach+of+70%2C000+shareholders&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/24/korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders/?pk_campaign=feed&#038;pk_kwd=korea-imposes-343-million-won-penalty-on-haesung-ds-for-data-breach-of-70000-shareholders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Paying cyberattackers is wrong, right? Should Taos County&#8217;s incident be an exception? (1)</title>
+		<link>https://databreaches.net/2025/07/23/paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception/?pk_campaign=feed&#038;pk_kwd=paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception</link>
+					<comments>https://databreaches.net/2025/07/23/paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception/?pk_campaign=feed&#038;pk_kwd=paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 02:33:51 +0000</pubDate>
+				<category><![CDATA[Commentaries and Analyses]]></category>
+		<category><![CDATA[Hack]]></category>
+		<category><![CDATA[Health Data]]></category>
+		<category><![CDATA[Miscellaneous]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122921</guid>
+
+					<description><![CDATA[How many times have we read that paying a threat actor&#8217;s extortion demands only encourages more financially motivated crime and doesn&#8217;t ensure that the data won&#8217;t be retained or re-sold or leaked? Those making that argument appear to be generally correct, but are there exceptions? For years now, DataBreaches has gone back and forth between...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fpaying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dpaying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception&amp;action_name=Paying+cyberattackers+is+wrong%2C+right%3F+Should+Taos+County%26%238217%3Bs+incident+be+an+exception%3F+%281%29&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception/?pk_campaign=feed&#038;pk_kwd=paying-cyberattackers-is-wrong-right-should-taos-countys-incident-be-an-exception/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HHS OCR Settles HIPAA Ransomware Investigation with Syracuse ASC for $250k plus corrective action plan</title>
+		<link>https://databreaches.net/2025/07/23/hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan/?pk_campaign=feed&#038;pk_kwd=hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan</link>
+					<comments>https://databreaches.net/2025/07/23/hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan/?pk_campaign=feed&#038;pk_kwd=hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 00:34:21 +0000</pubDate>
+				<category><![CDATA[Health Data]]></category>
+		<category><![CDATA[HIPAA]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[enforcement]]></category>
+		<category><![CDATA[Pysa]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122986</guid>
+
+					<description><![CDATA[Today, the U.S. Department of Health and Human Services (HHS), Office for Civil Rights (OCR) announced a settlement with Syracuse ASC, LLC doing business as Specialty Surgery Center of Central New York, for potential violations of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Security and Breach Notification Rules. Syracuse ASC is a...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fhhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dhhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan&amp;action_name=HHS+OCR+Settles+HIPAA+Ransomware+Investigation+with+Syracuse+ASC+for+%24250k+plus+corrective+action+plan&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan/?pk_campaign=feed&#038;pk_kwd=hhs-ocr-settles-hipaa-ransomware-investigation-with-syracuse-asc-for-250k-plus-corrective-action-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IVF provider Genea notifies patients about the cyberattack earlier this year.</title>
+		<link>https://databreaches.net/2025/07/23/ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year/?pk_campaign=feed&#038;pk_kwd=ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year</link>
+					<comments>https://databreaches.net/2025/07/23/ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year/?pk_campaign=feed&#038;pk_kwd=ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 15:27:34 +0000</pubDate>
+				<category><![CDATA[Breach Incidents]]></category>
+		<category><![CDATA[Hack]]></category>
+		<category><![CDATA[Non-U.S.]]></category>
+		<category><![CDATA[Of Note]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122953</guid>
+
+					<description><![CDATA[In February, DataBreaches reported that an incident involving Australia IVF giant Genea was the work of the Termite gang, who had posted proof of claims and also claimed to have 700 GB of files. Apparently, Genea still hasn&#8217;t revealed that to those affected, who only now are receiving notifications that their data was involved and...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Divf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year&amp;action_name=IVF+provider+Genea+notifies+patients+about+the+cyberattack+earlier+this+year.&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year/?pk_campaign=feed&#038;pk_kwd=ivf-provider-genea-notifies-patients-about-the-cyberattack-earlier-this-year/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Key figure behind major Russian-speaking cybercrime forum targeted in Ukraine</title>
+		<link>https://databreaches.net/2025/07/23/key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine/?pk_campaign=feed&#038;pk_kwd=key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine</link>
+					<comments>https://databreaches.net/2025/07/23/key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine/?pk_campaign=feed&#038;pk_kwd=key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 15:14:51 +0000</pubDate>
+				<category><![CDATA[Non-U.S.]]></category>
+		<category><![CDATA[Of Note]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122973</guid>
+
+					<description><![CDATA[More details have emerged on the arrest of an alleged XSS.is administrator by Ukrainian cyber police. The seizure notice has now appeared on the .onion version of the forum, and threads have been totally removed. As of the time of this update, and while the forum could still be updated before the seizure notice replaced...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fkey-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dkey-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine&amp;action_name=Key+figure+behind+major+Russian-speaking+cybercrime+forum+targeted+in+Ukraine&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine/?pk_campaign=feed&#038;pk_kwd=key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Clorox Files $380M Suit Alleging Cognizant Gave Hackers Passwords in Catastrophic 2023 Cyberattack</title>
+		<link>https://databreaches.net/2025/07/23/clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack/?pk_campaign=feed&#038;pk_kwd=clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack</link>
+					<comments>https://databreaches.net/2025/07/23/clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack/?pk_campaign=feed&#038;pk_kwd=clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 14:26:46 +0000</pubDate>
+				<category><![CDATA[Business Sector]]></category>
+		<category><![CDATA[Subcontractor]]></category>
+		<category><![CDATA[U.S.]]></category>
+		<category><![CDATA[Social engineering]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122971</guid>
+
+					<description><![CDATA[Rochdi Rais reports:  The Clorox Company and its subsidiary, Clorox Services Co., today filed a $380 million lawsuit in California state court against Cognizant Worldwide Ltd. and its New Jersey affiliate, Cognizant Technology Solutions US Corp. The complaint alleges that Cognizant enabled a “catastrophic” cyberattack on Clorox’s corporate network in August 2023 by handing over sensitive...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fclorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dclorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack&amp;action_name=Clorox+Files+%24380M+Suit+Alleging+Cognizant+Gave+Hackers+Passwords+in+Catastrophic+2023+Cyberattack&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack/?pk_campaign=feed&#038;pk_kwd=clorox-files-380m-suit-alleging-cognizant-gave-hackers-passwords-in-catastrophic-2023-cyberattack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cyberattacks Paralyze Major Russian Restaurant Chains</title>
+		<link>https://databreaches.net/2025/07/23/cyberattacks-paralyze-major-russian-restaurant-chains/?pk_campaign=feed&#038;pk_kwd=cyberattacks-paralyze-major-russian-restaurant-chains</link>
+					<comments>https://databreaches.net/2025/07/23/cyberattacks-paralyze-major-russian-restaurant-chains/?pk_campaign=feed&#038;pk_kwd=cyberattacks-paralyze-major-russian-restaurant-chains#respond</comments>
+		
+		<dc:creator><![CDATA[Dissent]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 14:21:27 +0000</pubDate>
+				<category><![CDATA[Business Sector]]></category>
+		<category><![CDATA[Non-U.S.]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<guid isPermaLink="false">https://databreaches.net/?p=122969</guid>
+
+					<description><![CDATA[The Moscow Times reports: A wave of coordinated cyberattacks has paralyzed the digital systems of several major Russian restaurant chains and food service providers, the Vedomosti business daily reported. The attacks, which began on July 18, targeted networks run by automation provider iiko and its hosting partner ESTT. Restaurant chains including McDonald’s successor Vkusno i Tochka, coffee chain...<img src="https://analytics.hitsaru.com/piwik.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2025%2F07%2F23%2Fcyberattacks-paralyze-major-russian-restaurant-chains%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcyberattacks-paralyze-major-russian-restaurant-chains&amp;action_name=Cyberattacks+Paralyze+Major+Russian+Restaurant+Chains&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />]]></description>
+		
+					<wfw:commentRss>https://databreaches.net/2025/07/23/cyberattacks-paralyze-major-russian-restaurant-chains/?pk_campaign=feed&#038;pk_kwd=cyberattacks-paralyze-major-russian-restaurant-chains/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
