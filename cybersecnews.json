@@ -42,6 +42,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized",
+        "link": "https://cybersecuritynews.com/blacksuit-ransomware-portal-seized/",
+        "summary": "A major win against cybercrime happened this week, as authorities from around the world teamed up to take down key websites run by the BlackSuit ransomware gang. If you visit the group\u2019s data leak site or their negotiation portal now, you\u2019ll only see a large notice stating that the site has been seized by law [\u2026]\nThe post BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Elephant APT Group Attacking Defense Industry Leveraging VLC Player, and Encrypted Shellcode",
         "link": "https://cybersecuritynews.com/elephant-apt-group-attacking-defense-industry/",
         "summary": "The Dropping Elephant advanced persistent threat group has launched a sophisticated cyber-espionage campaign targeting Turkish defense contractors, particularly companies manufacturing precision-guided missile systems. This malicious operation represents a significant evolution in the group\u2019s capabilities, employing a complex five-stage execution chain that cleverly disguises malicious payloads as legitimate conference invitations related to unmanned vehicle systems. The [\u2026]\nThe post Elephant APT Group Attacking Defense Industry Leveraging VLC Player, and Encrypted Shellcode appeared first on Cyber Security News.",
@@ -87,12 +93,6 @@
         "title": "Splunk Details on How to Detect, Mitigate and Respond to CitrixBleed 2 Attack",
         "link": "https://cybersecuritynews.com/detect-mitigate-and-respond-to-citrixbleed-2-attack/",
         "summary": "CitrixBleed 2 (CVE-2025-5777) erupted in 2025 when researchers uncovered an out-of-bounds read in Citrix NetScaler ADC and Gateway that lets an unauthenticated request siphon memory straight from the appliance. The flaw is triggered by a malformed POST sent to /p/u/doAuthentication.do, leaking session cookies, MFA tokens, and even plaintext passwords to anyone who asks\u2014no exploit chain [\u2026]\nThe post Splunk Details on How to Detect, Mitigate and Respond to CitrixBleed 2 Attack appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Metasploit Module Released For Actively Exploited SharePoint 0-Day Vulnerabilities",
-        "link": "https://cybersecuritynews.com/metasploit-module-for-sharepoint-0-day/",
-        "summary": "Researchers have developed a new Metasploit exploit module targeting critical zero-day vulnerabilities in Microsoft SharePoint Server that are being actively exploited in the wild.\u00a0 The module, designated as pull request #20409 in the Metasploit Framework repository, addresses CVE-2025-53770 and CVE-2025-53771, which enable unauthenticated remote code execution (RCE) attacks against vulnerable SharePoint installations. Key Takeaways1. SharePoint [\u2026]\nThe post Metasploit Module Released For Actively Exploited SharePoint 0-Day Vulnerabilities appeared first on Cyber Security News.",
         "published": "2025-07-24"
     },
     {
