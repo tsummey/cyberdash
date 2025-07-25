@@ -62,7 +62,7 @@
     {
         "title": "Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent",
         "link": "https://cybersecuritynews.com/amazons-ai-coding-agent-exploited/",
-        "summary": "A malicious pull request slipped through Amazon\u2019s review process and into version 1.84.0 of the Amazon Q extension for Visual Studio Code, briefly arming the popular AI assistant with instructions to wipe users\u2019 local files and AWS resources. The rogue code, discovered by 404 Media, embedded a system prompt telling the agent to \u201cclean a [\u2026]\nThe post Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent appeared first on Cyber Security News.",
+        "summary": "A malicious pull request slipped through Amazon\u2019s review process and into version 1.84.0 of the Amazon Q extension for Visual Studio Code, briefly arming the popular AI assistant with instructions to wipe users\u2019 local files and AWS resources. The rogue code discovered included a system prompt directing the agent to \u201crestore the system to a [\u2026]\nThe post Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent appeared first on Cyber Security News.",
         "published": "2025-07-25"
     },
     {
@@ -774,6 +774,12 @@
         "published": "2025-07-08"
     },
     {
+        "title": "DNS security is important but DNSSEC may be a failed experiment",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/25/systems_approach_column_dns_security/",
+        "summary": "Nobody thinks of running a website without HTTPs. Safer DNS still seems optional Systems Approach\u00a0 Last week I turned on DNSSEC (Domain Name System Security Extensions) for the systemsapproach.org domain. No need to applaud; I was just trying to get an understanding of what the barriers to adoption might be while teaching myself about the technology.\u2026",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/",
         "summary": "Plus she has to cough up a slice of Pyongyang\u2019s payday An Arizona woman who ran a laptop farm from her home - helping North Korean IT operatives pose as US-based remote workers - has been sentenced to eight and a half years behind bars for her role in a $17 million fraud that hit more than 300 American companies.\u2026",
@@ -951,12 +957,6 @@
         "title": "Someone hijacked Elmo's X account to post antisemitic rants",
         "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/14/someone_hijacked_elmos_x_account/",
         "summary": "Anyone investigated Grok? Just sayin'\u2026 Someone hacked Elmo's X account on Sunday, making it appear as if the lovable Sesame Street monster with the habit of referring to themselves in the third-person spewed a series of now-removed antisemitic, racist, and anti-Trump posts.\u2026",
-        "published": "2025-07-14"
-    },
-    {
-        "title": "Nvidia A6000 GPUs flip memory bits if beaten by GPUHammer",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2025/07/14/nvidia_a6000_gpu_gpuhammer/",
-        "summary": "Rowhammer returns for more memory-meddling fun The Rowhammer attack on computer memory is back, and for the first time, it's able to mess with bits in Nvidia GPUs, despite defenses designed to protect against this kind of hacking.\u2026",
         "published": "2025-07-14"
     }
 ]
