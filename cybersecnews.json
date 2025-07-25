@@ -42,6 +42,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT",
+        "link": "https://cybersecuritynews.com/hive0156-hackers-attacking-government/",
+        "summary": "A sophisticated Russian-aligned threat actor known as Hive0156 has intensified its cyber espionage campaigns against Ukrainian government and military organizations, deploying the notorious Remcos Remote Access Trojan through carefully crafted social engineering attacks. The group has demonstrated remarkable persistence in targeting Ukraine\u2019s defense infrastructure throughout 2025, utilizing weaponized Microsoft LNK files and PowerShell scripts as [\u2026]\nThe post Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques",
         "link": "https://cybersecuritynews.com/rise-in-phishing-activity-using-spoofed-sharepoint-domains/",
         "summary": "Spoofed Microsoft SharePoint notifications have been a familiar lure for corporate users, but a wave of campaigns traced between March and July 2025 shows a sharp uptick in both volume and sophistication. The operators register look-alike domains such as \u201csharepoint-online-docs-secure[.]co\u201d and \u201cfiles-share-portal-m365[.]io,\u201d then embed them in convincing e-mails that pass SPF and DKIM checks, slipping [\u2026]\nThe post Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques appeared first on Cyber Security News.",
@@ -93,12 +99,6 @@
         "title": "NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months",
         "link": "https://cybersecuritynews.com/noname05716s-hackers-attacked-3700-unique-devices/",
         "summary": "The pro-Russian hacktivist group NoName057(16) has orchestrated a massive distributed denial-of-service campaign targeting over 3,700 unique hosts across thirteen months, according to new research published on July 22, 2025. The group, which emerged in March 2022 shortly after Russia\u2019s full-scale invasion of Ukraine, has maintained an unprecedented operational tempo by launching attacks against an average [\u2026]\nThe post NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Splunk Details on How to Detect, Mitigate and Respond to CitrixBleed 2 Attack",
-        "link": "https://cybersecuritynews.com/detect-mitigate-and-respond-to-citrixbleed-2-attack/",
-        "summary": "CitrixBleed 2 (CVE-2025-5777) erupted in 2025 when researchers uncovered an out-of-bounds read in Citrix NetScaler ADC and Gateway that lets an unauthenticated request siphon memory straight from the appliance. The flaw is triggered by a malformed POST sent to /p/u/doAuthentication.do, leaking session cookies, MFA tokens, and even plaintext passwords to anyone who asks\u2014no exploit chain [\u2026]\nThe post Splunk Details on How to Detect, Mitigate and Respond to CitrixBleed 2 Attack appeared first on Cyber Security News.",
         "published": "2025-07-24"
     },
     {
@@ -558,6 +558,12 @@
         "published": "2025-07-16"
     },
     {
+        "title": "xonPlus Launches Real-Time Breach Alerting Platform for Enterprise Credential Exposure",
+        "link": "https://securityboulevard.com/2025/07/xonplus-launches-real-time-breach-alerting-platform-for-enterprise-credential-exposure/?utm_source=rss&utm_medium=rss&utm_campaign=xonplus-launches-real-time-breach-alerting-platform-for-enterprise-credential-exposure",
+        "summary": "\nChennai, India, 25th July 2025, CyberNewsWire\nThe post xonPlus Launches Real-Time Breach Alerting Platform for Enterprise Credential Exposure appeared first on Security Boulevard.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Cognizant Agents Gave Hackers Passwords, Clorox Says in Lawsuit",
         "link": "https://securityboulevard.com/2025/07/cognizant-agents-gave-hackers-gave-passwords-clorox-says-in-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=cognizant-agents-gave-hackers-gave-passwords-clorox-says-in-lawsuit",
         "summary": "\nClorox is suing Cognizant for $380 million, saying the IT services provider's service desk put in place to protect the multinational company from cyber risks in 2023 gave hackers password resets and other credentials when asked without verifying the identities of people making the requests.\nThe post Cognizant Agents Gave Hackers Passwords, Clorox Says in Lawsuit appeared first on Security Boulevard.",
@@ -640,6 +646,12 @@
         "link": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/",
         "summary": "Unit 42 details recent Iranian cyberattack activity, sharing direct observations. Tactical and strategic recommendations are provided for defenders.\nThe post Threat Brief: Escalation of Cyber Risk Related to Iran (Updated June 30) appeared first on Unit 42.",
         "published": "2025-06-25"
+    },
+    {
+        "title": "a story of five vulnerabilities in Microsoft SharePoint",
+        "link": "https://securelist.com/toolshell-explained/117045/",
+        "summary": "Explaining the ToolShell vulnerabilities in SharePoint: how the POST request exploit works, why initial patches can be easily bypassed, and how to stay protected.",
+        "published": "2025-07-25"
     },
     {
         "title": "Rumble in the jungle or APT41\u2019s new target in Africa",
