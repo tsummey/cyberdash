@@ -1,5 +1,35 @@
 [
     {
+        "title": "Phishers Target Aviation Execs to Scam Customers",
+        "link": "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/",
+        "summary": "KrebsOnSecurity recently heard from a reader whose boss's email account got phished and was used to trick one of the company's customers into sending a large payment to scammers. An investigation into the attacker's infrastructure points to a long-running Nigerian cybercrime group that is actively targeting established companies in the transportation and aviation industries.",
+        "published": "2025-07-24"
+    },
+    {
+        "title": "Microsoft Fix Targets Attacks on SharePoint Zero-Day",
+        "link": "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/",
+        "summary": "On Sunday, July 20, Microsoft Corp. issued an emergency security update for a vulnerability in SharePoint Server that is actively being exploited to compromise vulnerable organizations. The patch comes amid reports that malicious hackers have used the Sharepoint flaw to breach U.S. federal and state agencies, universities, and energy companies.",
+        "published": "2025-07-21"
+    },
+    {
+        "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
+        "link": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/",
+        "summary": "Security researchers recently revealed that the personal information of millions of people who applied for jobs at McDonald's was exposed after they guessed the password (\"123456\") for the fast food chain's account at Paradox.ai, a company that makes artificial intelligence based hiring chatbots used by many Fortune 500 companies. Paradox.ai said the security oversight was an isolated incident that did not affect its other customers, but recent security breaches involving its employees in Vietnam tell a more nuanced story.",
+        "published": "2025-07-18"
+    },
+    {
+        "title": "UK Arrests Four in \u2018Scattered Spider\u2019 Ransom Group",
+        "link": "https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/",
+        "summary": "Authorities in the United Kingdom this week arrested four alleged members of \"Scattered Spider,\" a prolific data theft and extortion group whose recent victims include multiple airlines\u00a0and the U.K. retail chain Marks & Spencer.",
+        "published": "2025-07-10"
+    },
+    {
+        "title": "Microsoft Patch Tuesday, July 2025 Edition",
+        "link": "https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/",
+        "summary": "Microsoft today released updates to fix at least 137 security vulnerabilities in its Windows operating systems and supported software. None of the weaknesses addressed this month are known to be actively exploited, but 14 of the flaws earned Microsoft's most-dire \"critical\" rating, meaning they could be exploited to seize control over vulnerable Windows PCs with little or no help from users.",
+        "published": "2025-07-09"
+    },
+    {
         "title": ": Lumma Stealer infection with follow-up Rsockstun malware",
         "link": "https://www.malware-traffic-analysis.net/2025/07/02/index.html",
         "summary": "",
@@ -10,6 +40,18 @@
         "link": "https://www.malware-traffic-analysis.net/2025/06/26/index.html",
         "summary": "",
         "published": "2025-06-27"
+    },
+    {
+        "title": "Hackers Leverage Google Forms Surveys to Trick Victims into Stealing Cryptocurrency",
+        "link": "https://cybersecuritynews.com/hackers-leverage-google-forms-surveys/",
+        "summary": "Google Forms, praised for friction-free data collection, has become the unlikely staging ground for rapidly spreading crypto-phishing campaign. First detected in late-2024 but surging in Q2 2025, the ploy begins with an unsolicited email containing a legitimate\u2010looking forms.gle link that easily bypasses most spam gateways. Once opened, the form impersonates a well-known exchange and congratulates [\u2026]\nThe post Hackers Leverage Google Forms Surveys to Trick Victims into Stealing Cryptocurrency appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "Bulletproof Hosting Provider Aeza Group Shifting Their Infrastructure to New Autonomous System",
+        "link": "https://cybersecuritynews.com/bulletproof-hosting-provider-shifting-infrastructure/",
+        "summary": "Following U.S. Treasury sanctions imposed on July 1, 2025, the notorious bulletproof hosting provider Aeza Group has rapidly migrated its infrastructure to a new autonomous system in an apparent attempt to evade enforcement measures.\u00a0 Cybersecurity researchers at Silent Push detected this significant infrastructure shift on July 20, 2025, when IP ranges began migrating from Aeza\u2019s [\u2026]\nThe post Bulletproof Hosting Provider Aeza Group Shifting Their Infrastructure to New Autonomous System appeared first on Cyber Security News.",
+        "published": "2025-07-25"
     },
     {
         "title": "New Phishing Attack Mimics Facebook Login Page to Steal Credentials",
@@ -57,18 +99,6 @@
         "title": "Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT",
         "link": "https://cybersecuritynews.com/hive0156-hackers-attacking-government/",
         "summary": "A sophisticated Russian-aligned threat actor known as Hive0156 has intensified its cyber espionage campaigns against Ukrainian government and military organizations, deploying the notorious Remcos Remote Access Trojan through carefully crafted social engineering attacks. The group has demonstrated remarkable persistence in targeting Ukraine\u2019s defense infrastructure throughout 2025, utilizing weaponized Microsoft LNK files and PowerShell scripts as [\u2026]\nThe post Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT appeared first on Cyber Security News.",
-        "published": "2025-07-25"
-    },
-    {
-        "title": "Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques",
-        "link": "https://cybersecuritynews.com/rise-in-phishing-activity-using-spoofed-sharepoint-domains/",
-        "summary": "Spoofed Microsoft SharePoint notifications have been a familiar lure for corporate users, but a wave of campaigns traced between March and July 2025 shows a sharp uptick in both volume and sophistication. The operators register look-alike domains such as \u201csharepoint-online-docs-secure[.]co\u201d and \u201cfiles-share-portal-m365[.]io,\u201d then embed them in convincing e-mails that pass SPF and DKIM checks, slipping [\u2026]\nThe post Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques appeared first on Cyber Security News.",
-        "published": "2025-07-25"
-    },
-    {
-        "title": "BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized",
-        "link": "https://cybersecuritynews.com/blacksuit-ransomware-portal-seized/",
-        "summary": "A major win against cybercrime happened this week, as authorities from around the world teamed up to take down key websites run by the BlackSuit ransomware gang. If you visit the group\u2019s data leak site or their negotiation portal now, you\u2019ll only see a large notice stating that the site has been seized by law [\u2026]\nThe post BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized appeared first on Cyber Security News.",
         "published": "2025-07-25"
     },
     {
@@ -268,6 +298,12 @@
         "link": "https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat",
         "summary": "The intelligence-gathering cyber campaign introduces the novel HazyBeacon backdoor and uses legitimate cloud communication channels for command-and-control (C2) and exfiltration to hide its malicious activities.",
         "published": "2025-07-15"
+    },
+    {
+        "title": "Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks",
+        "link": "https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html",
+        "summary": "Threat hunters have disclosed two different malware campaigns that have targeted vulnerabilities and misconfigurations across cloud environments to deliver cryptocurrency miners.\nThe threat activity clusters have been codenamed Soco404 and Koske by cloud security firms Wiz and Aqua, respectively.\nSoco404 \"targets both Linux and Windows systems, deploying platform-specific malware,\" Wiz",
+        "published": "2025-07-25"
     },
     {
         "title": "Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems",
@@ -537,12 +573,6 @@
         "title": "UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit",
         "link": "https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html",
         "summary": "A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances as part of a campaign designed to drop a backdoor called OVERSTEP.\nThe malicious activity, dating back to at least October 2024, has been attributed by the Google Threat Intelligence Group (GTIG) to a hacking crew it tracks as UNC6148. The number of known",
-        "published": "2025-07-16"
-    },
-    {
-        "title": "Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access",
-        "link": "https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html",
-        "summary": "Cybersecurity researchers have disclosed what they say is a \"critical design flaw\" in delegated Managed Service Accounts (dMSAs) introduced in Windows Server 2025.\n\"The flaw can result in high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service accounts and their resources across Active Directory indefinitely,\" Semperis said in a report shared with",
         "published": "2025-07-16"
     },
     {
