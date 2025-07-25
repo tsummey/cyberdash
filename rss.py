@@ -9,11 +9,11 @@ import streamlit as st
 if os.path.exists('cybersecnews.json'):
     os.remove('cybersecnews.json')
 
-if os.path.exists('sources/cybersecurity-advisories.xml'):
-    os.remove('sources/cybersecurity-advisories.xml')
+if os.path.exists('cybersecurity-advisories.xml'):
+    os.remove('cybersecurity-advisories.xml')
 
-if os.path.exists('sources/bleepingcomputer.xml'):
-    os.remove('sources/bleepingcomputer.xml')
+if os.path.exists('bleepingcomputer.xml'):
+    os.remove('bleepingcomputer.xml')
 
 st.set_page_config(
     page_title="Cybersecurity News Dashboard",
@@ -50,8 +50,7 @@ def is_json_outdated(json_filename):
 
 def download_cisa_xml():
     url = 'https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'cybersecurity-advisories.xml')
     try:
         response = requests.get(url, timeout=15)
@@ -64,7 +63,7 @@ def download_cisa_xml():
 
 def download_bleepingcomputer_xml():
     url = 'https://www.bleepingcomputer.com/feed/'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
+    sources_dir = os.getcwd()
     os.makedirs(sources_dir, exist_ok=True)
     local_file = os.path.join(sources_dir, 'bleepingcomputer.xml')
 
@@ -89,8 +88,7 @@ def download_bleepingcomputer_xml():
         
 def download_databreaches_xml():
     url = 'https://databreaches.net/feed/'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'databreaches.xml')
 
     headers = {
@@ -114,8 +112,7 @@ def download_databreaches_xml():
         
 def download_microsoftsecurity_xml():
     url = 'https://www.microsoft.com/en-us/security/blog/feed/'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'microsoftsecurity.xml')
 
     headers = {
@@ -139,8 +136,7 @@ def download_microsoftsecurity_xml():
         
 def download_securityweek_xml():
     url = 'https://feeds.feedburner.com/securityweek'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'securityweek.xml')
 
     headers = {
@@ -164,8 +160,7 @@ def download_securityweek_xml():
         
 def download_proofpoint_xml():
     url = 'https://www.proofpoint.com/us/rss.xml'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'proofpoint.xml')
 
     headers = {
@@ -189,8 +184,7 @@ def download_proofpoint_xml():
         
 def download_crowdstrike_xml():
     url = 'https://www.crowdstrike.com/blog/feed/'
-    sources_dir = os.path.join(os.path.dirname(__file__), 'sources')
-    os.makedirs(sources_dir, exist_ok=True)
+    sources_dir = os.getcwd()
     local_file = os.path.join(sources_dir, 'crowdstrike.xml')
 
     headers = {
@@ -344,13 +338,13 @@ def process_rss_feeds(json_filename='cybersecnews.json'):
             logging.warning(f"[EMPTY] No entries from: {url}")
         all_entries.extend(entries)
 
-    all_entries.extend(process_local_feed('./sources/cybersecurity-advisories.xml', 'CISA'))
-    all_entries.extend(process_local_feed('./sources/bleepingcomputer.xml', 'BleepingComputer'))
-    all_entries.extend(process_local_feed('./sources/databreaches.xml', 'DataBreaches'))
-    all_entries.extend(process_local_feed('./sources/microsoftsecurity.xml', 'MicrosoftSecurity'))
-    all_entries.extend(process_local_feed('./sources/securityweek.xml', 'SecurityWeek'))
-    all_entries.extend(process_local_feed('./sources/proofpoint.xml', 'Proofpoint'))
-    all_entries.extend(process_local_feed('./sources/crowdstrike.xml', 'CrowdStrike'))
+    all_entries.extend(process_local_feed('cybersecurity-advisories.xml', 'CISA'))
+    all_entries.extend(process_local_feed('bleepingcomputer.xml', 'BleepingComputer'))
+    all_entries.extend(process_local_feed('databreaches.xml', 'DataBreaches'))
+    all_entries.extend(process_local_feed('microsoftsecurity.xml', 'MicrosoftSecurity'))
+    all_entries.extend(process_local_feed('securityweek.xml', 'SecurityWeek'))
+    all_entries.extend(process_local_feed('proofpoint.xml', 'Proofpoint'))
+    all_entries.extend(process_local_feed('crowdstrike.xml', 'CrowdStrike'))
 
     unique = {(e['title'], e['link']): e for e in all_entries}
     with open(json_filename, 'w') as f:
