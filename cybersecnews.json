@@ -42,6 +42,12 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques",
+        "link": "https://cybersecuritynews.com/rise-in-phishing-activity-using-spoofed-sharepoint-domains/",
+        "summary": "Spoofed Microsoft SharePoint notifications have been a familiar lure for corporate users, but a wave of campaigns traced between March and July 2025 shows a sharp uptick in both volume and sophistication. The operators register look-alike domains such as \u201csharepoint-online-docs-secure[.]co\u201d and \u201cfiles-share-portal-m365[.]io,\u201d then embed them in convincing e-mails that pass SPF and DKIM checks, slipping [\u2026]\nThe post Rise in Phishing Activity Using Spoofed SharePoint Domains With Sneaky2FA Techniques appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized",
         "link": "https://cybersecuritynews.com/blacksuit-ransomware-portal-seized/",
         "summary": "A major win against cybercrime happened this week, as authorities from around the world teamed up to take down key websites run by the BlackSuit ransomware gang. If you visit the group\u2019s data leak site or their negotiation portal now, you\u2019ll only see a large notice stating that the site has been seized by law [\u2026]\nThe post BlackSuit Ransomware\u2019s Data Leak and Negotiation Portal Seized appeared first on Cyber Security News.",
