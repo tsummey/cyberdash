@@ -40,7 +40,6 @@ rss_urls = [
     'https://securelist.com/feed/',
     'https://www.schneier.com/blog/atom.xml',
     'https://blog.malwarebytes.com/feed/',
-    'https://security.googleblog.com/feeds/posts/default',
     'https://www.theregister.com/security/headlines.atom',
     'https://www.proofpoint.com/us/rss.xml'
 ]
