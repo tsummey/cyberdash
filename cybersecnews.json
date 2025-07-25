@@ -42,6 +42,36 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Fire Ant Hackers Exploiting Vulnerabilities in VMware ESXi and vCenter to Infiltrate Organizations",
+        "link": "https://cybersecuritynews.com/vmware-esxi-and-vcenter-exploited/",
+        "summary": "A sophisticated espionage campaign dubbed \u201cFire Ant\u201d demonstrates previously unknown capabilities in compromising VMware virtualization infrastructure.\u00a0 Since early 2025, this threat actor has systematically targeted VMware ESXi hosts, vCenter servers, and network appliances using hypervisor-level techniques that evade traditional endpoint security solutions.\u00a0 The campaign exhibits strong technical overlap with the previously identified UNC3886 threat group, [\u2026]\nThe post Fire Ant Hackers Exploiting Vulnerabilities in VMware ESXi and vCenter to Infiltrate Organizations appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "New Malware Attack Leverages YouTube Channels and Discord to Harvest Credentials from Computer",
+        "link": "https://cybersecuritynews.com/new-malware-attack-leverages-youtube-channels-and-discord/",
+        "summary": "A newly uncovered campaign is exploiting gamers\u2019 enthusiasm for off-beat indie titles to plant credential-stealing malware on machines. Branded installers for nonexistent games such as \u201cBaruda Quest,\u201d \u201cWarstorm Fire,\u201d and \u201cDire Talon\u201d are pushed through slick YouTube trailers and Discord download links that imitate legitimate early-access promotions. The lures contain Electron-based executables weighing 80 MB [\u2026]\nThe post New Malware Attack Leverages YouTube Channels and Discord to Harvest Credentials from Computer appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "xonPlus Launches Real-Time Breach Alerting Platform For Enterprise Credential Exposure",
+        "link": "https://cybersecuritynews.com/xonplus-launches-real-time-breach-alerting-platform-for-enterprise-credential-exposure/",
+        "summary": "Chennai, India, July 25th, 2025, CyberNewsWire xonPlus, a real-time digital risk alerting system, officially launches today to help security teams detect credential exposures before attackers exploit them. The platform detects data breaches and alerts teams and systems to respond instantly. Built by the team behind XposedOrNot, an open-source breach detection tool used by thousands, xonPlus [\u2026]\nThe post xonPlus Launches Real-Time Breach Alerting Platform For Enterprise Credential Exposure appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "Hackers Exploiting Sharepoint 0-day Vulnerability to Deploy Warlock Ransomware",
+        "link": "https://cybersecuritynews.com/sharepoint-0-day-ransomware-attack/",
+        "summary": "Microsoft has issued urgent warnings about active exploitation of critical SharePoint vulnerabilities CVE-2025-53770 and CVE-2025-53771 by multiple threat actors, including the China-based group Storm-2603, which has been deploying Warlock ransomware in compromised environments.\u00a0 The vulnerabilities affect on-premises SharePoint Server 2016, 2019, and Subscription Edition, with exploitation attempts observed as early as July 7, 2025. Key [\u2026]\nThe post Hackers Exploiting Sharepoint 0-day Vulnerability to Deploy Warlock Ransomware appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "New CastleLoader Attack Using Cloudflare-Themed Clickfix Technique to Infect Windows Computers",
+        "link": "https://cybersecuritynews.com/castleloader-attack-using-cloudflare-themed-clickfix-technique/",
+        "summary": "CastleLoader, a rapidly evolving loader discovered in 2025, has surged across underground networks by weaponizing Cloudflare-themed \u201cClickfix\u201d phishing pages and doctored GitHub repositories to compromise Windows hosts. The malware masquerades as benign developer resources, browser updates, or meeting portals, luring unsuspecting users into copying a seemingly innocent PowerShell command that promises to \u201cverify\u201d or \u201crepair\u201d [\u2026]\nThe post New CastleLoader Attack Using Cloudflare-Themed Clickfix Technique to Infect Windows Computers appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT",
         "link": "https://cybersecuritynews.com/hive0156-hackers-attacking-government/",
         "summary": "A sophisticated Russian-aligned threat actor known as Hive0156 has intensified its cyber espionage campaigns against Ukrainian government and military organizations, deploying the notorious Remcos Remote Access Trojan through carefully crafted social engineering attacks. The group has demonstrated remarkable persistence in targeting Ukraine\u2019s defense infrastructure throughout 2025, utilizing weaponized Microsoft LNK files and PowerShell scripts as [\u2026]\nThe post Hive0156 Hackers Attacking Government and Military Organizations to Deploy Remcos RAT appeared first on Cyber Security News.",
@@ -72,34 +102,10 @@
         "published": "2025-07-25"
     },
     {
-        "title": "TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands",
-        "link": "https://cybersecuritynews.com/tp-link-network-video-recorder-vulnerability/",
-        "summary": "Two high-severity vulnerabilities in TP-Link VIGI network video recorder (NVR) systems could allow attackers to execute arbitrary commands on affected devices.\u00a0 The security flaws, identified as CVE-2025-7723 and CVE-2025-7724, impact the VIGI NVR1104H-4P V1 and VIGI NVR2016H-16MP V2 models, posing significant risks to surveillance infrastructure security. Key Takeaways1. Two serious vulnerabilities let attackers run commands [\u2026]\nThe post TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "SharePoint 0-day Vulnerability Exploited in Wild by All Sorts of Hacker Groups",
-        "link": "https://cybersecuritynews.com/sharepoint-0-day-vulnerability-exploited/",
-        "summary": "A critical zero-day vulnerability in Microsoft SharePoint servers has become a playground for threat actors across the cybercriminal spectrum, with attacks ranging from opportunistic hackers to sophisticated nation-state groups since mid-July 2025. On July 19, 2025, Microsoft confirmed that vulnerabilities collectively known as \u201cToolShell\u201d were being actively exploited in the wild. The exploit chain comprises [\u2026]\nThe post SharePoint 0-day Vulnerability Exploited in Wild by All Sorts of Hacker Groups appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology",
-        "link": "https://cybersecuritynews.com/llm-powered-malware-from-apt28-hackers-integrates-ai-capabilities/",
-        "summary": "The newly revealed LAMEHUG campaign signals a watershed moment for cyber-def: Russian state-aligned APT28 has fused a large language model (LLM) directly into live malware, allowing each infected host to receive tailor-made shell commands on the fly. By invoking the Qwen2.5-Coder-32B-Instruct model through Hugging Face\u2019s public API, the attackers sidestep traditional static payload constraints and [\u2026]\nThe post First Known LLM-Powered Malware From APT28 Hackers Integrates AI Capabilities into Attack Methodology appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware",
-        "link": "https://cybersecuritynews.com/threat-actors-weaponizing-hwp-files/",
-        "summary": "Cybersecurity researchers have uncovered a sophisticated malware campaign where threat actors are exploiting Hangul Word Processor (.hwp) documents to distribute the notorious RokRAT malware. This marks a significant shift from the malware\u2019s traditional distribution method through malicious shortcut (LNK) files, demonstrating the evolving tactics of advanced persistent threat groups. The attack campaign utilizes carefully crafted [\u2026]\nThe post Threat Actors Weaponizing .hwp Files to Deliver RokRAT Malware appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months",
-        "link": "https://cybersecuritynews.com/noname05716s-hackers-attacked-3700-unique-devices/",
-        "summary": "The pro-Russian hacktivist group NoName057(16) has orchestrated a massive distributed denial-of-service campaign targeting over 3,700 unique hosts across thirteen months, according to new research published on July 22, 2025. The group, which emerged in March 2022 shortly after Russia\u2019s full-scale invasion of Ukraine, has maintained an unprecedented operational tempo by launching attacks against an average [\u2026]\nThe post NoName057(16)\u2019s Hackers Attacked 3,700 Unique Devices Over Last Thirteen Months appeared first on Cyber Security News.",
-        "published": "2025-07-24"
+        "title": "$15M Rewards Offered as American Woman Jailed in IT Worker Scam",
+        "link": "https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/",
+        "summary": "Christina Chapman was sentenced to prison for helping North Korean IT workers infiltrate US companies and running a laptop farm for them.\nThe post US Targets North Korea\u2019s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam appeared first on SecurityWeek.",
+        "published": "2025-07-25"
     },
     {
         "title": "Clorox Sues Cognizant for $380 Million Over 2023 Hack",
@@ -558,6 +564,12 @@
         "published": "2025-07-16"
     },
     {
+        "title": "Clorox Sues Cognizant After Help Desk Allegedly Gave Away Passwords to Hackers\u201d",
+        "link": "https://securityboulevard.com/2025/07/bleach-wasnt-strong-enough-clorox-sues-cognizant-after-help-desk-allegedly-gave-away-passwords-to-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=bleach-wasnt-strong-enough-clorox-sues-cognizant-after-help-desk-allegedly-gave-away-passwords-to-hackers",
+        "summary": "\nClorox is suing IT giant Cognizant, claiming their help desk handed over employee passwords to hackers \u2014 no phishing, no malware\u2026 just gave them away.\nThe post \u201cBleach Wasn\u2019t Strong Enough: Clorox Sues Cognizant After Help Desk Allegedly Gave Away Passwords to Hackers\u201d appeared first on Security Boulevard.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "xonPlus Launches Real-Time Breach Alerting Platform for Enterprise Credential Exposure",
         "link": "https://securityboulevard.com/2025/07/xonplus-launches-real-time-breach-alerting-platform-for-enterprise-credential-exposure/?utm_source=rss&utm_medium=rss&utm_campaign=xonplus-launches-real-time-breach-alerting-platform-for-enterprise-credential-exposure",
         "summary": "\nChennai, India, 25th July 2025, CyberNewsWire\nThe post xonPlus Launches Real-Time Breach Alerting Platform for Enterprise Credential Exposure appeared first on Security Boulevard.",
@@ -591,12 +603,6 @@
         "title": "Akamai Identifies Coyote Malware Variant Capable of Compromising Microsoft UIA Framework",
         "link": "https://securityboulevard.com/2025/07/akamai-identifis-coyote-malware-variant-capable-of-compromising-microsoft-uia-framework/?utm_source=rss&utm_medium=rss&utm_campaign=akamai-identifis-coyote-malware-variant-capable-of-compromising-microsoft-uia-framework",
         "summary": "\nAkamai researchers today disclosed they have discovered a variant of Coyote malware that extracts specific banking and cryptocurrency exchanges by compromising the UI Automation (UIA) framework developed by Microsoft.\nThe post Akamai Identifies Coyote Malware Variant Capable of Compromising Microsoft UIA Framework appeared first on Security Boulevard.",
-        "published": "2025-07-22"
-    },
-    {
-        "title": "Microsoft Patches SharePoint Flaws as Hackers Rush to Exploit Them",
-        "link": "https://securityboulevard.com/2025/07/microsoft-patches-sharepoint-flaws-as-hackers-rush-to-exploit-them/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-patches-sharepoint-flaws-as-hackers-rush-to-exploit-them",
-        "summary": "\nAs Microsoft puts the final patch in place, a growing number of hackers, including several China state-sponsored threat groups, are quickly pushing forward to exploit the security flaws that will allow them compromise on-premises SharePoint servers to steal data and maintain persistence.\nThe post Microsoft Patches SharePoint Flaws as Hackers Rush to Exploit Them appeared first on Security Boulevard.",
         "published": "2025-07-22"
     },
     {
