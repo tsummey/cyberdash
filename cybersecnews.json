@@ -42,6 +42,18 @@
         "published": "2025-06-27"
     },
     {
+        "title": "Elephant APT Group Attacking Defense Industry Leveraging VLC Player, and Encrypted Shellcode",
+        "link": "https://cybersecuritynews.com/elephant-apt-group-attacking-defense-industry/",
+        "summary": "The Dropping Elephant advanced persistent threat group has launched a sophisticated cyber-espionage campaign targeting Turkish defense contractors, particularly companies manufacturing precision-guided missile systems. This malicious operation represents a significant evolution in the group\u2019s capabilities, employing a complex five-stage execution chain that cleverly disguises malicious payloads as legitimate conference invitations related to unmanned vehicle systems. The [\u2026]\nThe post Elephant APT Group Attacking Defense Industry Leveraging VLC Player, and Encrypted Shellcode appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
+        "title": "Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent",
+        "link": "https://cybersecuritynews.com/amazons-ai-coding-agent-exploited/",
+        "summary": "A malicious pull request slipped through Amazon\u2019s review process and into version 1.84.0 of the Amazon Q extension for Visual Studio Code, briefly arming the popular AI assistant with instructions to wipe users\u2019 local files and AWS resources. The rogue code, discovered by 404 Media, embedded a system prompt telling the agent to \u201cclean a [\u2026]\nThe post Hackers Injected Destructive System Commands in Amazon\u2019s AI Coding Agent appeared first on Cyber Security News.",
+        "published": "2025-07-25"
+    },
+    {
         "title": "TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands",
         "link": "https://cybersecuritynews.com/tp-link-network-video-recorder-vulnerability/",
         "summary": "Two high-severity vulnerabilities in TP-Link VIGI network video recorder (NVR) systems could allow attackers to execute arbitrary commands on affected devices.\u00a0 The security flaws, identified as CVE-2025-7723 and CVE-2025-7724, impact the VIGI NVR1104H-4P V1 and VIGI NVR2016H-16MP V2 models, posing significant risks to surveillance infrastructure security. Key Takeaways1. Two serious vulnerabilities let attackers run commands [\u2026]\nThe post TP-Link Network Video Recorder Vulnerability Let Attackers Execute Arbitrary Commands appeared first on Cyber Security News.",
@@ -81,12 +93,6 @@
         "title": "Metasploit Module Released For Actively Exploited SharePoint 0-Day Vulnerabilities",
         "link": "https://cybersecuritynews.com/metasploit-module-for-sharepoint-0-day/",
         "summary": "Researchers have developed a new Metasploit exploit module targeting critical zero-day vulnerabilities in Microsoft SharePoint Server that are being actively exploited in the wild.\u00a0 The module, designated as pull request #20409 in the Metasploit Framework repository, addresses CVE-2025-53770 and CVE-2025-53771, which enable unauthenticated remote code execution (RCE) attacks against vulnerable SharePoint installations. Key Takeaways1. SharePoint [\u2026]\nThe post Metasploit Module Released For Actively Exploited SharePoint 0-Day Vulnerabilities appeared first on Cyber Security News.",
-        "published": "2025-07-24"
-    },
-    {
-        "title": "Chinese Hackers Attacking Windows Systems in Targeted Campaign to Deploy Ghost RAT and PhantomNet Malwares",
-        "link": "https://cybersecuritynews.com/chinese-hackers-attacking-windows-systems-in-targeted-campaign/",
-        "summary": "Threat researchers are warning of twin Chinese-nexus espionage operations\u2014\u201cOperation Chat\u201d and \u201cOperation PhantomPrayers\u201d\u2014that erupted in the weeks preceding the Dalai Lama\u2019s 90th birthday, exploiting heightened traffic to Tibetan-themed websites to seed Windows hosts with sophisticated backdoors. By compromising a legitimate greeting page and quietly swapping its hyperlink, attackers funneled visitors to look-alike domains under niccenter[.]net, [\u2026]\nThe post Chinese Hackers Attacking Windows Systems in Targeted Campaign to Deploy Ghost RAT and PhantomNet Malwares appeared first on Cyber Security News.",
         "published": "2025-07-24"
     },
     {
@@ -268,12 +274,6 @@
         "link": "https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat",
         "summary": "The intelligence-gathering cyber campaign introduces the novel HazyBeacon backdoor and uses legitimate cloud communication channels for command-and-control (C2) and exfiltration to hide its malicious activities.",
         "published": "2025-07-15"
-    },
-    {
-        "title": "I switched to a $280 Chromebook from my Windows laptop for a week - and didn't regret it",
-        "link": "https://www.zdnet.com/article/i-switched-to-a-280-chromebook-from-my-windows-laptop-for-a-week-and-didnt-regret-it/",
-        "summary": "Lenovo's 11-inch Chromebook Duet is a hybrid device that's portable enough to lug around for work or school.",
-        "published": "2025-07-24"
     },
     {
         "title": "Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems",
