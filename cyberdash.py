@@ -40,8 +40,13 @@ rss_urls = [
     'https://securelist.com/feed/',
     'https://www.schneier.com/blog/atom.xml',
     'https://blog.malwarebytes.com/feed/',
+    'https://security.googleblog.com/feeds/posts/default',
     'https://www.theregister.com/security/headlines.atom',
-    'https://www.proofpoint.com/us/rss.xml'
+    'https://www.proofpoint.com/us/rss.xml',
+    'https://blog.cloudflare.com/rss/',
+    'https://blog.checkpoint.com/feed/',
+    'https://feeds.feedburner.com/TrendMicroSimplySecurity',
+    'https://feeds.feedburner.com/TheHackersNews',
 ]
 
 special_sources = [
